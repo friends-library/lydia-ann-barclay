@@ -1,7 +1,9 @@
 == Chapter IV
 
+[.letter-heading]
 To R. R.
 
+[.signed-section-context-open]
 Croydon, 5th of 3rd Month, 1835.
 
 Thy letter yesterday felt not a little cheering and
@@ -20,8 +22,8 @@ I believe there are a few (and will be more by and by), valiants raised up,
 who are ready accoutred, not by their power and might,
 but by the Spirit of the Lord God of hosts, for the battle.
 He is mustering His little ones, whom He will make as David;
-and who shall be able to stand when He rises up to the battle?
-and who shall let when He is pleased to work, though it be by the foolish and weak?
+and _who_ shall be able to stand when He rises up to the battle?
+and _who_ shall let when He is pleased to work, though it be by the foolish and weak?
 My heart salutes these dear valiants in Gospel love,
 and wishes them the best speed in their work, which I apprehend to be,
 through the proper exercise of our divinely appointed discipline,
@@ -49,7 +51,7 @@ But how gracious and condescending is He to interpose, time after time,
 for our deliverance, that we may be set free to praise Him,
 and to magnify His great and ever excellent name.
 
-I suppose thou hast heard of the Beacon.
+I suppose thou hast heard of the [.book-title]#Beacon.#
 I do not intend to touch it.
 +++[+++These]
 unsound principles are more insidious in their poison
@@ -76,10 +78,13 @@ appears weak and foolish in man`'s eye,
 and rejection of what is ancient, may not hinder thy poor,
 weak sister from declaring the whole counsel in mercy given her to declare.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To L. S.
 
+[.signed-section-context-open]
 Wandsworth, 19th of 3rd Month, 1835.
 
 We are here an hour before meeting time, for the select meeting to be held,
@@ -105,7 +110,7 @@ felt a wish to be with them.
 It was very crucifying to me to have to stand up the first in the meeting for worship,
 and the last in that for discipline; but the Lord made hard things comparatively easy,
 and what was very bitter to the natural part to be sweet, or, at least, peaceful;
-blessed forever be His holy name, who is indeed worthy to be feared above all,
+blessed forever be His holy name, who is indeed worthy to be feared _above_ all,
 to be loved, trusted in, and obeyed by the whole house of Israel!
 It was sweet to be with the dear Friends of that county again,
 to whom I have formerly felt united.
@@ -117,20 +122,23 @@ the precious covering in silence was very sweet to me.
 We afterwards went on to Maidstone,
 and were at their meeting next day--also a season of favour--and
 were helped to return home comfortably last night.
-Thou wilt say I have cause still more to trust, to love, and obey.
+Thou wilt say I have cause _still more_ to trust, to love, and obey.
 
 May the Lord keep us poor striplings in the hollow of His holy hand,
 and hold up our goings in His paths that our feet slip not!
 For surely if He leave us (or, rather, if we leave Him) a moment, we shall fall.
 Oh, to be preserved low in His pure fear forever!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To Hannah Marsh
 
+[.signed-section-context-open]
 Croydon, 26th of 3rd Month, 1835.
 
-This approaching committee does feel so trying and exercising,
+This approaching committee does feel _so_ trying and exercising,
 I feel almost ill at the idea.
 How very pinching it will be to express a sentiment as to any one proposed,
 with that unflinching yet humble faithfulness that should be! for
@@ -138,7 +146,7 @@ perhaps there may be relatives or intimates of the individual present.
 Well, dear Hannah, we must crave one another`'s help, and remember the cause is not ours,
 and no might or wisdom of ours will help it forward, but rather hinder.
 As for poor me, I greatly shrink from such a vast trial of faithfulness as it will be;
-oh! that I may, with clearness and humble faithfulness,
+oh! that I may, with clearness and _humble_ faithfulness,
 be enabled to express any little feeling that may be given,
 and sink into nothingness again.
 Who knows, perhaps my deafness may be a help to me in such a case,
@@ -157,10 +165,13 @@ and the poor dust thereof shall be compassionated.
 It was very pleasant to see +++_______+++; I told her I was glad she came to feel with us.
 Why should not elders go thus to a neighbouring meeting more often than they do?
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To John Finch Marsh
 
+[.signed-section-context-open]
 Ventnor, 29th of 4th Month, 1835.
 
 My mind seems much with you at this time,
@@ -185,10 +196,13 @@ it is our duty more and more to yield up to His qualifying power,
 whereby a capacity will be received to walk in their footsteps,
 and to serve the Lord faithfully in our day and generation.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To E. R.
 
+[.signed-section-context-open]
 Southampton, 8th of 5th Month, 1835.
 
 Ah! my dear friend, it is a fearful prospect to me this yearly meeting;
@@ -204,8 +218,8 @@ a great desire to cover things over and mingle things together, much appearance 
 as well as of advocating our early doctrine;
 but oh! how closely have we need to feel--how closely have
 we need to keep to the unerring Guide and pure Witness,
-in order that we may rightly feel whence things come.
-I tremble for myself, and greatly desire to be preserved in a humble, meek,
+in order that we _may_ rightly feel whence things come.
+I tremble for myself, and _greatly_ desire to be preserved in a humble, meek,
 listening state, waiting for true sense and feeling--and if any service is called for,
 for wisdom and strength to perform it,
 fearing none but to disobey my good and gracious Master.
@@ -263,7 +277,7 @@ so that he is very much recovered.
 John`'s writing labours are at an end for the present, but he is going on with Dewsbury,
 by Rawlinson`'s help.
 It has been very sweet to me to be with him since being out,
-though it is only a scrap now and then that I get of his quiet company.
+though it is only a scrap now and then that I get of his _quiet_ company.
 His remarks have been very instructive,
 and his mouth has been opened several times in ministry in our little private opportunities,
 or with a friend, for he has been silent quite +++[+++as to public ministry]
@@ -276,6 +290,7 @@ I believe some will be called to singular (to man`'s eye) services,
 and oh! that such may be faithful.
 Are we to limit our Master, and choose our own work?
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++The close and lengthened trials and provings which
@@ -296,8 +311,10 @@ the prospect of a Gospel errand amongst Friends,
 before her gift in the ministry had received the acknowledgment of her monthly meeting.
 This will account for some of the allusions in the following letter.]
 
+[.letter-heading]
 To L. S.
 
+[.signed-section-context-open]
 Croydon, 3rd of 7th Month, 1835.
 
 I much hope that this change of air may renovate thee.
@@ -305,10 +322,10 @@ Body and mind are closely connected,
 and such an awful time as it must have been to thee for several months,
 must have pressed much upon the poor body.
 I may truly say it has been an exercising time to me since yearly meeting,
-in which my mind has been much turned to the same subject--not that I am aware the matter,
+in which my mind has been much turned to the same subject--__not__ that I am aware the matter,
 as it regards myself,
-has been taken up by Friends--and not at all that
-I have voluntarily reverted to the subject,
+has been taken up by Friends--and not _at all_ that
+I have _voluntarily_ reverted to the subject,
 for I have not entertained it at all during the four years that
 I have feebly put my hand (as I apprehend) to the awful work.
 But circumstances have unavoidably led to it and brought it upon me; and, truly,
@@ -317,12 +334,12 @@ and close conflict and deep searching have been my portion.
 But, through favour,
 one seems a little strengthened to cast all care upon Him
 who hath hitherto cared for me abundantly and most graciously.
-He can make a way for us where we can see none, and remove mountains of difficulty.
+He can make a way for us where we can see _none,_ and remove mountains of difficulty.
 My soul desires to lean upon Him in humble fear, and holy confidence,
 and pure resignation.
 And oh,
 that I may be enabled to perform all my vows made in the seasons
-of sore conflict and dismay--to come up in faithfulness and entire
+of sore conflict and dismay--to come up in faithfulness and _entire_
 dedication to Him who hath indeed dealt very bountifully with me.
 For what am I, a poor, weak handmaid,
 the least in all my Father`'s house (if indeed I be one at all),
@@ -361,7 +378,7 @@ and sometimes in the same words.
 Ah! dear friend, this is what we greatly want--to be directed to turn inward,
 instead of looking out after words and declarations concerning the thing;
 and I greatly and earnestly desire that I may be preserved from,
-and helped against the fear of man,
+and _helped against_ the fear of man,
 or a shrinking from delivering this very unpalatable doctrine to the carnal mind.
 But oh! to be enabled in humble fear, and in the puttings forth of the Divine power,
 to deliver the whole counsel, nothing doubting and no one fearing;
@@ -387,7 +404,7 @@ indeed it would seem desirable not to leave my own
 meeting--but I feel they have a claim on me,
 and I do not wish to be deficient in family duty; also my health, I hope,
 may be benefited by the sea air and change.
-I hope I may be preserved faithful, not forward, whilst out.
+I hope I may be preserved faithful, _not forward,_ whilst out.
 It is likely I may attend a few of the little meetings in Kent, but I am known there,
 and it seems like going home.
 I need not say to thee, dear L.,
@@ -406,10 +423,13 @@ she was the first to whom I opened my mouth to speak (as I trust) in the Divine 
 and the peace that overflowed I shall not forget; it is now ten years ago,
 when she was in Cornwall.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To William Rickman.
+[.letter-heading]
+To William Rickman
 
+[.signed-section-context-open]
 7th Month, 1835.
 
 Ah! my dear friend,
@@ -460,10 +480,13 @@ In His own time He will arise and comfort her, and make her desolate places like
 the garden of His own planting,
 and abundant thanksgiving and praise shall be found therein.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To R. R.
 
+[.signed-section-context-open]
 Croydon, 6th of 7th Month, 1835.
 
 I felt thy sympathy truly sweet.
@@ -493,16 +516,19 @@ Yet, oh! let the sincere-hearted, faithful little ones,
 the little flock of Christ`'s companions in tribulation,
 remember "`their Redeemer is strong, the Lord of hosts is His name.`"
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To Hannah Marsh
 
+[.signed-section-context-open]
 Sandgate, 25th of 7th Month, 1835.
 
 Dear Thomas Shillitoe and Sarah Grubb may be a little
 cheered in the hope of brighter days amongst us;
 but oh! the bitter conflicts, the deep plungings, the fiery baptisms,
-that must surely be passed through ere those days
+that must _surely_ be passed through ere those days
 come--it makes one start back to think of.
 The sons of Levi, the vessels of the ministry,
 must indeed be purified and refined before the pure offerings, as in ancient days,
@@ -520,33 +546,41 @@ It is trying that any men Friends (in such very small
 meetings) should keep at home to tend shop.
 We called after meeting at +++_______+++`'s, and, on going into the parlour behind,
 I felt constrained to utter a few words, turning that way, greatly in the cross.
-It is my earnest desire to be preserved from doing wrong,
-or diverting from an inward attention to the great Minister,
-in these days of looking after words especially,
+It is my _earnest_ desire to be preserved from doing wrong,
+or diverting _from an inward_ attention to the great Minister,
+in these days of looking after words _especially,_
 yet I have believed it required of me to break silence in
 all the meetings I have attended since leaving home;
 I hope I may now be excused.
-I never felt so weak, surely I shall bring reproach on the good cause,
+I never felt so weak, surely I _shall_ bring reproach on the good cause,
 and fall into one of the many snares around.
 
 Dear A. Brewster!
 I hope something sweet and pithy will be prepared;
 I wish I might have a double portion of her meek and humble spirit.
-We may covet the best gifts thou knowest.
+We _may_ covet the best gifts thou knowest.
 
 Farewell, dear H. Remember me when favoured,
 for surely I never more needed the prayers of the faithful;
 I believe they will avail for my good.
 With dear love, I remain thy nearly united friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
+
+[.postscript]
+====
 
 Do write to me, if inclined.
 Oh! that the 6th verse of the 116th Psalm may be my experience.
 It has been many a time, so I ought to trust.
 
-To +++_______+++.
+====
 
+[.letter-heading]
+To +++_______+++
+
+[.signed-section-context-open]
 10th of 7th Month, 1835.
 
 Thy kind communication seems to awaken much tender sympathy with thee,
@@ -560,7 +594,7 @@ His compassions fail not, and great is His faithfulness indeed!
 Has He not many a time extended a hand of help, even when we were ready utterly to sink,
 and seemed almost beyond hope, for we seemed unable to hope even in Him?
 But He hath beheld us with an eye of pity, and said to the waves, the great proud waves,
-"`Be still!`" and our extremity has indeed been God`'s gracious opportunity
+"`Be still!`" and our _extremity_ has indeed been God`'s gracious opportunity
 for the display of His power and the excellency of His might.
 His wisdom, too, and His tender love,
 and His very faithfulness are among the wonders seen in these deeps;
@@ -603,8 +637,8 @@ lead about and instruct, and give to suffer as He will, and what He will.
 It was sweet to me to have the company of +++_______+++ and +++_______+++. We enjoyed,
 through Divine favour, some precious times together,
 partaking of a sweet unity and of that river whose streams do refresh, and, at times,
-make glad the city of the living God, and the tribulated travellers Zionward,
-even in the midst of tribulations!
+make glad the city of the living God, and the _tribulated travellers Zionward,
+even in the midst of tribulations!_
 
 We have had several pleasant visits from some dear friends,
 whose company and labours were strengthening and comforting to us--to me especially;
@@ -616,7 +650,7 @@ as it ever was, to the wisdom and craving of man), without shrinking,
 in the seasons of the puttings forth of the Divine power!
 And I know, dear, thou dost also desire the same thing, and I would, in my small measure,
 endeavour to encourage thee to do with the might given what thy hands find to do,
-and to keep humbly and watchfully, and use faithfully,
+and to keep humbly and watchfully, and use _faithfully,_
 that good thing which has been committed to thee, I am persuaded,
 by Him who divideth to every one severally as He will.
 But I am a child, and have great need to look at home.
@@ -624,12 +658,16 @@ Exercises and conflicts have brought me very low since yearly meeting,
 but I can indeed testify to the goodness and tender dealing of the Lord,
 and my heart desires to trust in Him above all, and to love and serve Him above all.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++, on her Acknowledgment as a Minister
 
+[.signed-section-context-open]
 Croydon, 8th Month, 1835.
 
+[.salutation]
 My Beloved Friend,
 
 I believe I can hardly do otherwise than send thee a few lines,
@@ -650,7 +688,7 @@ O Lord God, and what is mine house, that thou hast brought me hitherto?
 And yet this was a small thing in thine eyes,
 O God;`" for thou "`hast regarded me according to the estate of a man of high degree.`"
 And the desire of thy heart, under a sense of His goodness, is,
-that He would be pleased "`to establish thy house,`" even thy heart, in faithfulness,
+that He would be pleased "`to establish thy house,`" even thy _heart,_ in faithfulness,
 and in humility before Him forever; that His powerful hand may be with thee,
 to prepare and to bring forth all that He calls for at thy hands;
 that He would so be round about thee (and clothe thee with watchfulness)
@@ -671,8 +709,8 @@ often the weakest of these to publish His goodness,
 and speak of the glory of His kingdom!
 And truly all is of Him; the emptying, the cleansing, the filling, the qualification,
 yea, the faith, the willingness, the obedience, are all of Him.
-It is of His own that we give Him; and oh! may it ever be so,
-and that only when He bids us!
+It is of His _own_ that we give Him; and oh! may it _ever_ be so,
+and that _only when_ He bids us!
 So let flesh be forever abased and nothing before Him,
 and let the weakness of the creature so appear to ourselves and to all others,
 as that none of the excellency of the glory and of the power may
@@ -689,23 +727,27 @@ I desire to know a habitation in that which limits them, and to commit my way, y
 body and spirit, into His hand who is graciously redeeming me more and more to Himself!
 Farewell.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++The following letter was written under feelings
 of discouragement from remarks made in her presence,
 but which did not relate to herself.]
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Croydon, +++_______+++, 1835.
 
+[.salutation]
 My Dear +++_______+++,
 
 I felt your visit yesterday very kind;
 at least I have this morning been able to do so (after another plunge last night),
 and I hope I take it, as I believe it was intended to be,
 as an expression of your desire that I might be strengthened in what is good,
-and preserved from sinking too low, or into evil.
+and preserved from sinking too low, or _into evil._
 Ah, I own I heard and felt sufficient on fifth day to prove as a cold bath,
 and perhaps reasonings have but too much crowded in.
 Crave for me, dear +++_______+++,
@@ -714,8 +756,8 @@ who commandeth the winds and the waves,
 and they obey Him,
 and that this season of exercise may be one of instruction and deepening in the root,
 for this is what I greatly covet, and not to spread in the branches,
-which I greatly fear.
-Perhaps thou wilt say, may my simile prove correct.
+which I greatly _fear._
+Perhaps thou wilt say, _may_ my simile prove correct.
 Though it may have a repressing effect at the time,
 may it tend to brace the system and promote a healthy vigour afterwards.
 So be it, saith my soul.
@@ -727,22 +769,26 @@ that He may have all the glory.
 Ah, that which is of Christ, the Life, is living and baptising;
 it baptises into His nature and Spirit;
 it ministers his Spirit and life to that which is born of God in the hearts of the hearers;
-and truly it hath a testimony from that in their hearts, whence it proceedeth;--for,
+and _truly_ it hath a testimony from that in their hearts, whence it proceedeth;--for,
 as our Saviour and His beloved apostle declared, it is only those who are born of God,
 and who know Him,
 that can hear His words or receive the testimony of His faithful servants.
 And oh, let me be one of these poor, weak, yet living, baptising ones,
 if ever entrusted with so precious a gift!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 TO R. R.
 
+[.signed-section-context-open]
 Croydon, 17th of 9th Month, 1835.
 
+[.salutation]
 My Dear Friend,
 
-I feel it cause for gratitude to Him who is the primary
+I feel it cause for gratitude to Him who is the _primary_
 hander of every cup of refreshment permitted us,
 that thy letters have often come at such acceptable moments, this last one peculiarly so,
 for I felt very fainting on First day evening,
@@ -756,7 +802,7 @@ as I am likely to be much occupied soon in removing
 from my present cottage to John`'s house,
 and also say how pleasant it would be to me to have a little of
 thy company at your quarterly meeting at H+++_______+++. Thou wilt say,
-perhaps, what business have I to come there.
+perhaps, what business have _I_ to come there.
 Not as a spy, I assure thee; but, if it may be, to creep just inside the door,
 and to sit and feel for and with you, and, if permitted,
 it would be a favour to partake of a crumb of bread with you.
@@ -765,27 +811,31 @@ My dear friend queries if the fear of man has left me yet.
 Ah, it is still too strong,
 though I have been more stimulated latterly (both by goodness
 and by judgment or affliction) to overcome it.
-And oh, what great goodness and condescension it is,
-that the very weak should be thus tenderly dealt with,
+And oh, what _great_ goodness and condescension it is,
+that the _very_ weak should be thus tenderly dealt with,
 their weakening reasonings subdued, a willingness wrought, and obedience given!
-Surely He only is to be praised and magnified, to be feared and obeyed,
-to be leaned upon, and His approbation alone sought after.
+Surely He only is to be praised and magnified, to be _feared_ and obeyed,
+to be _leaned_ upon, and His approbation _alone_ sought after.
 May He be so by me, saith my soul,
 and may the creature be kept in weakness and in nothingness
 before Him and before all others forever.
 It is a fearful thing to open the mouth publicly in the present day; indeed,
-when is it not so, if our fear is a right one?
+_when_ is it _not_ so, if our fear is a right one?
 It is my earnest desire to be preserved from yielding to improper reasonings,
 and to be strengthened to be faithful to my God in my day and generation,
 however close and unpalatable to the natural man, in these criticising and refusing days,
 may be the testimony to be delivered.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To L. S.
 
+[.offset]
 +++[+++After referring to her brother John`'s removal to Stoke Newington, she writes--]
 
+[.signed-section-context-open]
 Croydon, 24th of 10th Month, 1835.
 
 Inward exercises have not decreased, too, as thou wouldst suppose,
@@ -818,7 +868,7 @@ and the sweet feeling of union in love and in exercise
 permitted in the meetings was very precious.
 On returning thence, I went, by agreement, with dear Mary Hagger, a Kentish Friend,
 to attend Epping meeting, which she had felt drawn to,
-and omitted when visiting meetings in Essex in the summer.
+and _omitted_ when visiting meetings in Essex in the summer.
 On taking her home to her daughter`'s at Tottenham,
 we planned to go also to Winchmore Hill meeting together, another First day,
 which had been my desire for five or six years past, but unaccomplished till now!
@@ -828,14 +878,14 @@ She is a dear, simple-hearted, faithful friend, and lively in old age,
 and I felt instructed and helped in being with her.
 I returned home last week,
 and am now brought again into a low spot--if it be for purification, no matter,
-let the naughtiness be thoroughly purged away--but oh!
+let the _naughtiness_ be thoroughly purged away--but oh!
 I fear it is my own fault.
 Let me bear the indignation or the purification (whichever it be) humbly and patiently,
 and let Him do what He will with His most unworthy handmaid--humble, correct, empty,
 or fill!
-Ah! there is One (thou knowest it, dear L.) who can in the moment of His goodness,
+Ah! there is One (thou knowest it, dear L.) who can in the _moment_ of His _goodness,_
 with a ray of His divine light and power, remove all the misty clouds of reasoning,
-and cause even the mountainous height of the fear of man to flow down before Him.
+and cause even the _mountainous_ height of the fear of man to flow down before Him.
 
 I did not get away quite clear from Epping, as it respected one individual,
 which I have regretted,
@@ -844,10 +894,13 @@ Since we met, we have had many warnings of the uncertainty of time,
 and stimulants to diligence in doing the day`'s work,
 lest the night should overtake us wherein no man can work.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To William Rickman.
+[.letter-heading]
+To William Rickman
 
+[.signed-section-context-open]
 10th Month, 1835.
 
 I trust thou art a partaker of a degree of peaceful quiet,
@@ -873,10 +926,13 @@ Ah, this precious fellowship depends not upon words;
 it depends upon and is fed by the living virtue and power of Christ,
 who is the life of all His true members, and knits them together in Himself.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To R. R.
 
+[.signed-section-context-open]
 Croydon, 29th of 10th Month, 1835.
 
 It has often been remarkable to me that I generally
@@ -904,18 +960,21 @@ thy kind feeling expressed in thy note is truly helpful.
 I own I often do, from fear of uttering a single word too much,
 sit down short of delivering all the counsel given;
 but I do not think this was the case at H.,
-praised be His name who took away the fear of man, which was very strong before,
+praised be His name who took away the fear of man, which was _very strong_ before,
 and mercifully helped.
 I desire to be kept low before Him--if it may be,
-few in words and much in power--that all may be of His free goodness, love,
+_few_ in words and much in power--that all may be of His free goodness, love,
 and mighty power, that the weakness of the vessel may so appear to myself and to others,
 as that none of the excellency of the glory and of the praise
 may be detained from Him to whom alone it is due.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To E. R.
 
+[.signed-section-context-open]
 Croydon, 30th of 11th Month, 1835.
 
 My mind has seemed much turned towards you (I might say, your favoured county) lately,
@@ -949,7 +1008,7 @@ Truly it is cheering (and is it not strengthening too?) to think of thee,
 and of a number more, upright-hearted, clean-banded, faithful ones, up and down;
 I do believe they will be preserved, whatever sifting and trial may come upon us; yes,
 made to shine brighter and to wax stronger by all these things--and
-how does all that is alive in me long to be made of this proved,
+how does all that is alive in me _long_ to be made of this proved,
 yet loved and preserved number!
 
 Faith and reliance on the merits of our Saviour are so preeminently held up to us now,
@@ -960,7 +1019,7 @@ and indeed I think they lose sight of all the many and solemn declarations in ho
 that we shall be rewarded hereafter according to our works.
 It is very painful that such Church of England doctrines
 should be held and propagated amongst us;
-and it is very painful that opposite doctrines should be preached amongst us,
+and it is very painful that _opposite_ doctrines should be preached amongst us,
 as I think must be evident even to our dear young people.
 And, also, it is very trying, my dear friend, to such poor striplings as I,
 to have to utter what is contrary to what the great ones amongst us declare.
@@ -968,7 +1027,7 @@ But what is to be done?
 We cannot choose, but utter what is given--the Lord will judge,
 and I do hope will set to rights whenever wrong, if there be but a keeping close to Him,
 and a lying low before Him; and this is what I greatly desire,
-and ever to be kept little and low.
+and ever to be _kept little and low._
 
 I shall, no doubt, be with you mentally tomorrow and fourth day,
 which I believe to be your quarterly meetings;
@@ -980,6 +1039,7 @@ and let His name and blessed truth be spread and exalted over all,
 and the gain of all and the praise of all be ascribed unto Him alone,
 to whom it is everlastingly due!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++On the 24th of 12th month, 1835, she was recorded a minister by Kingston monthly meeting.
@@ -989,8 +1049,10 @@ which bound the sacrifice as with fresh cords unto the horns of the altar,
 by calling for unreserved dedication, increased watchfulness,
 and a yet more lowly sitting at the feet of her heavenly Master.]
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 4th of 1st Month, 1836.
 
 I fear thou hast thought me long in communicating with thee,
@@ -998,7 +1060,7 @@ but I have been so situated that I could not with comfort before now,
 having had Friends with me for two days after quarterly meeting;
 and since then I have felt much bowed down under
 the awful and humbling sense of what has seemed,
-as it were, confirmed upon me in the Divine ordering and most condescending goodness.
+as it were, confirmed upon me in the Divine ordering and _most_ condescending goodness.
 
 I now take up my pen, dear sister (for so I may and must call thee,
 however unworthy I feel to be united to the poor, exercised, yet living ones),
@@ -1016,15 +1078,15 @@ as well as in thy judgment as to the thing itself.^
 footnote:[A marriage connection.]
 It was pleasant to me to hear that +++_______+++ had made you a longer visit,
 and I gathered from what thou said,
-that you had had some opportunity of feeling after best guidance together.
+that you had had some opportunity of feeling after best guidance _together._
 Ah! is not this most satisfactory,
 if we are but brought sufficiently into quietness and inward stillness,
 wherein all prejudice as well as partiality is subjected?
 and I believe the feelings we are favoured with on such an occasion,
-will be helpful to us in coming towards a conclusion in our more private waitings.
+will be helpful to us in coming towards a conclusion in our more _private_ waitings.
 
 Well, dear +++_______+++, thou hast my tender sympathy and desires for thee,
-that a degree of peaceful quiet may attend thy looking towards
+that a degree of _peaceful quiet_ may attend thy looking towards
 whatever decision thou art enabled to come to.
 Ah, this is the great thing to be desired in all our steppings of whatever
 sort--to feel the peace-giving smile of heavenly approbation.
@@ -1042,33 +1104,33 @@ in reference to what has transpired in the last fortnight.
 It was striking to me, the visit^
 footnote:[Of the Friends appointed to inform her that she was recorded a minister.]
 not being paid till second day, for, by that means, I felt emboldened, or, rather,
-constrained to bear (as I thought might possibly be!) a last testimony on the
+constrained to bear (as I _thought might possibly be!_) a last testimony on the
 subject of worship and prayer (which had been upon me for some days past),
 on yesterday week; it was very humbling to me to have to utter what was close,
-as well as to utter anything on that day, but it could not be helped.
+as well as to utter _anything_ on that day, but it could not be helped.
 
 Truly they were awful and humbling meetings +++[+++on the succeeding
-First day after receiving the visit]. I had hoped and believed
+First day after receiving the visit]. I had _hoped_ and believed
 that silence might be my portion for some time to come;
 but, to my trial, I felt obliged to utter a few words in the afternoon meeting,
 greatly in the cross.
 And now, my dear friend,
 I seem filled with awe at the awful consequences involved
 in such a conclusion of Friends towards me!
-I desire to be wholly dedicated to Him who has shown me such astonishing goodness.
+I desire to be wholly dedicated to Him who has shown me such _astonishing_ goodness.
 It is He only who can bring into resignation, as well as give ability to obey,
 and preserve in humility.
 I am greatly dreading to go to +++_______+++ meeting, which I have felt for some weeks past.
 I am fully sensible how desirable and proper it is in my state to keep at home in quiet,
 and unless it be very clearly required and a necessity laid upon me,
-I should not dare to do so; if I must,
+I should not _dare_ to do so; if I must,
 what a great comfort would it be to have some feeling Friend with me;
 but I know I must look solely to the great Minister to support, and make way,
 and strengthen through all.
 The monthly meeting is there this month, And now, dear +++_______+++,
 I know I shall have thy sympathy as thou hast mine; and oh,
 that I may have thy prayers also.
-Crave for me, above all things,
+Crave for me, _above all things,_
 that I may be brought low and kept low forever;--this
 is the prevailing desire of my soul.
 
@@ -1080,9 +1142,9 @@ and by them.
 I believe I would have the same faithful dealing
 extended towards me that I would advise towards others.
 I am aware there are some diffident minds whom it might be better
-to leave awhile to bear the immediate corrections of Divine goodness;
+to leave awhile to bear the _immediate_ corrections of Divine goodness;
 but there are also others to whom it would be best, yea, necessary,
-to give the tender hint outwardly, as Divine wisdom and ability are afforded.
+to give the tender hint _outwardly,_ as Divine wisdom and ability are afforded.
 I believe that which is tender and good will not suffer by such faithful dealing,
 but be deepened and strengthened, and eventually produce more healthy,
 well flavoured fruit, to the praise of the great Husbandman, and to your comfort.
@@ -1092,6 +1154,7 @@ if not mercifully preserved and watered every moment,
 and how needful to be always kept in this sense,
 that we may more earnestly seek after this help and preservation.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++Of the visit spoken of in the preceding letter she subsequently
@@ -1105,8 +1168,11 @@ I suppose I must be content to bear such seasons of extremity,
 and learn to endure hardness,
 if I would be a true soldier of the unconquerable Captain.`"]
 
+[.small-break]
+'''
+
 +++[+++Journal Entry]
-1st Month 10th, 1836.
+_1st Month 10th, 1836._
 "`Return unto thy rest, O my soul; for the Lord hath dealt bountifully with thee.`"
 In remembering this language this evening,
 I have thought that the Lord Jesus Christ is the rest of the soul;
@@ -1114,14 +1180,17 @@ and that to return unto her rest, is to retire back to an inward, humble abiding
 in His precious power, in the pure fear; in which alone is true preservation, safety,
 and peace, as well as ability to do anything that is acceptable unto God.
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Croydon, 25th of 1st Month, 1836.
 
+[.salutation]
 My Dear Friend,
 
 In the evening at +++_______+++, we got upon the subject of revelation, much to my dismay,
-as I cannot say a word for the good way in a conversational way,
+as I cannot say a word for the _good way_ in a conversational way,
 but as +++_______+++ had rather spoken against it, I felt constrained,
 some little time afterwards (when they read a psalm before the young people went to bed),
 to utter a few words on the subject, exceedingly in the cross, in a ministerial way.
@@ -1132,9 +1201,9 @@ that I have gone through since returning home;
 I suppose the cause was from hastily letting in discouragement from something
 that dear +++_______+++ said at +++_______+++ on my way home the next day.
 Thou knowest a little matter is enough to one prone to take it in.
-The mention even of the snares and dangers around, seems almost to plunge one into them!
+The _mention_ even of the snares and dangers around, seems almost to plunge one into them!
 So that I have almost doubted of all,
-and concluded that Friends must have been wrong in their judgment of me,
+and concluded that Friends _must_ have been wrong in their judgment of me,
 and that I am wrong altogether and have believed a lie.^
 footnote:[In reference to some critical remarks on her quotation of a passage of scripture,
 on an occasion subsequent to the visit before alluded to.]
@@ -1155,10 +1224,10 @@ and watchfully--to seek His favour only;
 and how greatly I fear to do harm to His blessed cause,
 or to bring reproach on that awful work to the which I have
 apprehended myself called to put a feeble hand;
-that He may humble and correct any how, graciously instruct and guide,
+that He may humble and correct _any how,_ graciously instruct and guide,
 and powerfully strengthen and preserve!
 
-Third Day.--I feel a little more quiet this morning +++[+++since]
+_Third Day._--I feel a little more quiet this morning +++[+++since]
 a little strengthening retirement after breakfast,
 and I have had a note from dear +++_______+++, which has allayed my reasonings.
 Ah, my dear +++_______+++,
@@ -1169,12 +1238,16 @@ If the Lord`'s good hand be but underneath,
 it will support under any overwhelming plunges that He sees best,
 and bring forth more pure to His praise.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To R. R.
 
+[.signed-section-context-open]
 Croydon, 30th of 1st Month, 1836.
 
+[.salutation]
 My Dear Friend,
 
 I fear thou hast thought me long unmindful of thy kind letter of last month.
@@ -1207,10 +1280,13 @@ may be more beneficial now than a residence there.
 I cannot describe the longing that I feel on thy behalf, my beloved friend,
 but I believe thou knowest my exercise, and canst feel me in that which is beyond words.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To Hannah Cruickshank.
+[.letter-heading]
+To Hannah Cruickshank
 
+[.signed-section-context-open]
 Croydon, 23rd of 2nd Month, 1836.
 
 Many of our young people are attending other places of Worship,
@@ -1224,7 +1300,7 @@ thinking we are coming to our right senses at last?--but alas! the little ones,
 the spiritually minded and panting ones amongst them, are offended and stumbled,
 and surely woe lies at our doors who are the means of so doing!
 I heard lately that +++_______+++ had expressed a belief that,
-if a revival takes place amongst us, it will be by the proper exercise of the discipline,
+if a revival takes place amongst us, it will be by the proper exercise of the _discipline,_
 and not by preaching.
 I thoroughly united with it, and shall rejoice if it be so;
 for I have long thought that these modern views,
@@ -1272,4 +1348,5 @@ by a union with Himself through His beloved Son, our Saviour.
 
 With the salutation of love, I remain thy truly affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.

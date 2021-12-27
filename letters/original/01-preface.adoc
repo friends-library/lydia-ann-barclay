@@ -3,7 +3,7 @@ ____
 She hath done what she could.
 ____
 
-== Preface.
+== Preface
 
 The preparation of the following selection from the
 correspondence of our late dear friend,
@@ -54,6 +54,9 @@ but the little there is shows the purified state of her mind.
 She left a few drafts of letters; and the following paper being found with them,
 is felt by those into whose hands they have come to increase their responsibility:--
 
+[.embedded-content-document.paper]
+--
+
 In preserving these rough drafts of letters, written under exercise of mind,
 I desire to be preserved from boasting,
 or seeking to make a fair show in the flesh (as it were),
@@ -70,4 +73,7 @@ thanksgiving, redound to the glory of God,`" the fountain of all good,
 and the centre of all true worship and praise.
 Amen.
 
+[.signed-section-context-close]
 Cockermouth, 1862.
+
+--

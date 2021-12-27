@@ -1,9 +1,12 @@
 == Chapter XVI
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 25th of 7th Month, 1851.
 
+[.salutation]
 My Dear Friend,
 
 I have been thinking of you much in Cornwall, which was once my home for several years,
@@ -32,16 +35,20 @@ As I am not alone in my feelings,
 I am the more encouraged thus in tenderness and sincerity to impart a word of caution,
 and I much hope it will be taken in that true love in which it is penned.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To a Young Friend.
+[.letter-heading]
+To a Young Friend
 
+[.signed-section-context-open]
 Drumnadrochit, near Inverness, 16th of 9th Month, 1851.
 
+[.salutation]
 My Dear +++_______+++,
 
-Perhaps you will wonder into what outlandish place we are got, from the date of this.
-I was so entirely overdone with the general meeting,
+Perhaps you will wonder into what _outlandish_ place we are got, from the date of this.
+I was so _entirely overdone_ with the general meeting,
 that we came to Inverness almost directly after it,
 and a most fatiguing journey we had of 106 miles, in a small and greatly laden coach,
 over a great part of Aberdeenshire, a very dreary and dull country,
@@ -55,7 +62,7 @@ and then procured agreeable lodgings on the banks of the Ness, where we stayed t
 My night`'s sleep is not fully restored yet,
 which has made me feel tired and feeble by day,
 and hindered my getting on as I could wish.
-However, it was a pleasant sojourn, and as we were gazing-stocks to the people,
+However, it was a pleasant sojourn, and as we were _gazing-stocks_ to the people,
 and spread also a great many tracts both in English and Gaelic,
 I trust the sojourn there was not in vain.
 We also found a poor solitary man who professes with Friends,
@@ -70,13 +77,13 @@ which is twenty-four miles long, and then we started for this place on foot;
 but finding it too far for me, I mounted a little Highland cart, which took our luggage,
 while C. walked with a kind fellow-passenger, dressed in the Highland costume,
 who was very polite.
-The above little carts are made of open work of lathes,
+The above little carts are made of _open work_ of lathes,
 so that the foot or anything small might fall through
 without care--they are made so for lightness,
-and are drawn along these mountain roads by one small horse,
-sometimes with a straw collar and a halter bridle!
+and are drawn along these mountain roads by one _small_ horse,
+sometimes with a _straw_ collar and a _halter_ bridle!
 This place is a straggling village,
-scattered up hill and down hill for nearly two miles in a most beautiful glen,
+scattered up _hill_ and down hill for nearly two miles in a most beautiful glen,
 said to be the most beautiful one in Scotland, called Glen Urquhart, pronounced Urquart.
 We are at a cottage shop which is the post-office, a very simple lodging, without carpet,
 and everything very rustic, but such extreme hospitality as we have never had before.
@@ -103,7 +110,7 @@ to the mountains--the corn fields so richly laden,
 some not cut, and others in sheaves, haycocks in others,
 and green luxuriant turnips in others,
 and a little river or stream running winding along.
-After lying down on the soft turf for half an hour,
+After _lying down_ on the soft turf for half an hour,
 we were favoured to get safely down again, though so slippery and craggy,
 and took our dinner at the side of the burn in the cool shade,
 having the water murmuring at our side, where we filled our cup,
@@ -125,10 +132,13 @@ we were so glad of it, the sun being so hot.
 And now, dear +++_______+++, it is near bed-time, so I must quiet myself for reading,
 and remain, with dear love, your truly affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To R. R.
 
+[.signed-section-context-open]
 Drumnadrochit, Inverness, 21st of 9th Month, 1851.
 
 Recollecting it will be your quarterly meeting, I suppose this week,
@@ -147,18 +157,22 @@ He pities the infirmities of His poor weak ones, whom He has given to desire to 
 and when the poor body seems to clog the soul,
 He is able to send help from His holy sanctuary.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Drumnadrochit, 22nd of 9th Month, 1851.
 
+[.salutation]
 Dear Friend,
 
 I incline to salute you in love, by a few lines, and say you are not forgotten,
 but your welfare every way sincerely desired.
 And, my dear friend,
-I long that earthly things and gettings may not eat out the best life,
+I long that earthly things and gettings may not eat out the _best life,_
 which is far better than either clothing or food outwardly;
 for what will it profit us if we gain the whole world
 (or what the world calls good and desirable),
@@ -168,7 +182,7 @@ for now you have a dear little son to provide for.
 It will be the enemy`'s snare to you both to labour for him and +++_______+++,
 to care and be anxious for him,
 and thus he (the enemy) will try by the lawful things to draw you away from minding
-your inward condition and growth in grace by minding inward feelings.
+your inward condition and growth in grace _by minding_ inward feelings.
 Oh, this inwardness, this minding inward feelings, it is beyond all outward gettings;
 and if our minds are rightly set heavenwards we may enjoy
 it (the feeling after the Lord`'s presence and power secretly,
@@ -180,38 +194,50 @@ I am far from well, but desire to be resigned to the Lord`'s will.
 Farewell.
 With love truly to you both, from your friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.offset]
 +++[+++The following is a postscript of the last letter addressed to Lydia A. Barclay,
 by her departed friend, L. Chalk.]
 
+[.postscript]
+====
+
+[.signed-section-context-open]
 Kingston, 24th of 9th Month, 1851.
 
 I hope your late sojourn at Inverness, etc.,
 will tend to recruit both body and mind after the season of trial you allude to.
-When we look around, how much there seems to weigh down and cause sorrow and sadness!
+When we look around, how much there seems to weigh down and cause _sorrow_ and _sadness!_
 Think not you are alone in this respect.
-We have a large share here.
-May the great Head of the Church be so near,
-as to help and keep both you and us in our places,
+We have a large share _here._
+May the great Head of the Church _be so near,_
+as to _help_ and keep both you and us in _our_ places,
 when storms of persecution arise and threaten almost to overwhelm;
 and very sweet it is to think that in His keeping we are safe, as it is written,
 "`No weapon that is formed against you shall prosper;
 and every tongue that shall rise against you in judgment you shall condemn.
 This is the heritage of the servants of the Lord, and their righteousness is of me,
 says the Lord.`"
-The prospect of having my dear sister added to us here feels cheering, and very,
+The prospect of having my dear sister added to us _here_ feels cheering, and very,
 very comforting to me in my present feeble and uncertain health.
 We hope to be so near each other as to hold daily interaction when desired.
 If I have omitted to answer any part of your letter, please to excuse it.
 Farewell.
 
+[.signed-section-signature]
 L+++.+++ Chalk.
 
+====
+
+[.letter-heading]
 To W. H.
 
+[.signed-section-context-open]
 Aberdeen, 22nd of 10th Month, 1851.
 
+[.salutation]
 My Dear Friend,
 
 The true fellowship is like the healing balm and odoriferous cordial.
@@ -232,12 +258,16 @@ And if yet detained here, oh, may I be preserved therein to the very end.
 
 With dear love to you both, I am your true friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 27th of 10th Month, 1851.
 
+[.salutation]
 My Dear Friend,
 
 I thought I would salute you in this way,
@@ -265,12 +295,16 @@ be raised up to testify of the Lord`'s goodness, and speak in His name or power;
 therefore, see that you are not frustrating the Divine goodness to you,
 by a lack of a deep inward exercise of mind, in your silent waiting.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 3rd of 11th Month, 1851.
 
+[.salutation]
 My Dear Friend,
 
 Your last letter of 26th of 9th month interested me greatly,
@@ -285,7 +319,7 @@ seemed to help me on in my exercise (as all true elders will),
 and was healing to my wounded spirit.
 I did not know who she was, but felt such sweet union of spirit, that I,
 on shaking hands with her, proposed to take tea with her,
-and on entering her humble dwelling I felt that that was
+and on entering her humble dwelling I felt that _that_ was
 the place where I ought to have lodged during my stay there,
 and not at the rich man`'s, where my spirit was so oppressed and wounded,
 that I could have said soon after I entered his house, with Peter Gardner of old,
@@ -302,7 +336,7 @@ but now she hoped she should be strengthened to be faithful--and she was,
 till she was obliged, on account of her health, to give up shopkeeping.
 She was one of my yearly meeting lodgers for four succeeding years after that,
 and we loved her more every time we saw her; and she was faithful as an elder,
-though a poor woman,
+_though a poor woman,_
 and I rejoiced that I had been the means of bringing
 such a deeply exercised mind to the yearly meeting.
 I often long to go and see how some of my dear friends get along, in a spiritual sense,
@@ -320,14 +354,19 @@ or the inward kingdom of the Saviour,
 by encouraging them to a close attention to inward pointings and restraints.
 But this way is everywhere evil spoken of, as was primitive Christianity of old.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 4th of 11th Month, 1851.
 
+[.salutation]
 My Dear Friend,
 
 I was much pleased to receive your kind letter nearly two weeks ago.
@@ -412,12 +451,16 @@ I have no objection to your reading some of this to +++_______+++ and +++_______
 as it in some parts concerns you all.
 With kind love to you all three, I am your sincere friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 18th of 11th Month, 1851.
 
+[.salutation]
 My Dear +++_______+++,
 
 I was so pleased to hear of your going to the quarterly meeting,
@@ -434,19 +477,23 @@ opposer, and defier of Israel`'s God.
 And, my dear ones,
 do not forsake or neglect the seeking after the Lord`'s
 humbling and quickening power from day to day,
-that your souls may live, and living may praise the Lord.
+that your souls _may live,_ and _living_ may praise the Lord.
 For what, indeed, are earthly or outward things, however plausible they may appear,
 and even may assume the appearance of duties almost,
 compared with the increase and preservation of the Divine life in us,
 whereby all we have and are are sanctified to the
 Master`'s use and blessed to our truest enjoyment.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay
 
+[.letter-heading]
 To +++_______+++ and +++_______+++
 
+[.signed-section-context-open]
 1st of 12th Month, 1851.
 
+[.salutation]
 My Dear Friends,
 
 It was in my heart yesterday to pen you a few lines to tell you how I felt,
@@ -501,10 +548,13 @@ serve the Lord with full purpose of heart,
 in true uprightness, watchfulness, and humble praise, and holy fear,
 is the earnest desire of your exercised and affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 5th of 3rd Month, 1852.
 
 I trust it will not be unacceptable again in my poor way to offer, as it were,
@@ -523,18 +573,22 @@ and in labour a little longer,
 and He can raise up of the children to uphold the same blessed standard of truth,
 so that one generation may praise His worthy name to another!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To W. H., Jun.
 
+[.signed-section-context-open]
 Aberdeen, 22nd of 3rd Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 It appears to me that the friends of truth in one country should be open
 and communicative with the friends of truth in another country,
 seeing that they are deeply interested in the same blessed cause;
-and what touches that seems, as it were, to touch the apple of their eye mutually.
+and what touches _that_ seems, as it were, to touch the apple of their eye mutually.
 And it is strengthening and animating to commune with one another by the way,
 even though we be sad, and have to tell of mournful things,
 provided always the Divine fear be before our eyes,
@@ -564,15 +618,19 @@ and great the darkness of the winter season,
 if so be the life be but preserved in the root,
 and the necessary purifications and humiliations accomplished.
 
-Farewell.
-Your sincere and affectionate friend,
+[.signed-section-closing]
+Farewell. Your sincere and affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 21st of 4th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 Your kind and affecting letter surely deserved an earlier acknowledgment,
@@ -597,7 +655,7 @@ if possible to compel to a thorough yielding to the good hand of power and love,
 as it were, no stone unturned,
 that there may be a coming and a tasting how good
 the Lord is to them that love Him above all.
-What a mercy it is that He does not leave us to ourselves!
+What a mercy it is that He does not leave us to _ourselves!_
 
 Every year strips us of some whom we have known or valued, and these strippings, I think,
 come more and more home to us in instruction and warning the longer we live,
@@ -610,15 +668,21 @@ I am not looking to attend the yearly meeting unless I am called up to my sister
 when I might have a slice of it, but I believe otherwise my place is at home.
 With dear love to you both, I am your true friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To Hannah Marsh
 
+[.signed-section-context-open]
 Moffat, Dumfriesshire, 15th of 5th Month, 1852.
 
-+++[+++Describing her sister Susan`'s suffering illness, Lydia A. Barclay writes]--
+[.offset]
++++[+++Describing her sister Susan`'s suffering illness,
+Lydia A. Barclay writes--]
 
-However, in tender mercy, she lasted till next day,
+However, in tender mercy, she lasted till
+next day,
 and then both M. and E. witnessed the end, which was very peaceful and quiet.
 She was remarkably sweet and patient throughout, and so very grateful to all,
 quite aware of her state, and sensible to a few hours of her close,
@@ -626,9 +690,9 @@ often having the Scriptures read to her in the night, especially the thirty-four
 her favourite one: in short, she has left a sweet savour behind her,
 and her example will still, as it has often done, speak loudly to me and others.
 She was buried at Leytonstone parish place,
-where she had pointed out a spot likely to be her last resting-place,
+where she _had pointed_ out a spot likely to be her last resting-place,
 next to the Buxton`'s family plot.
-Most of the family attended, by which I gather that the females were allowed to go,
+Most of the family attended, by which I _gather_ that the _females_ were _allowed_ to go,
 and +++_______+++ conducted it without formality.
 I cannot describe the trial and blank it is to me, and to have been at this distance,
 but mercy, tender and great, has been mingled with the bitter cup, both towards her,
@@ -645,7 +709,7 @@ Oh, may we seek to know a growth in the Truth and an increase in the fruitfulnes
 even to the end of our little time here,
 that we may be guarded and preserved from every snare,
 and supported under every conflict and trial yet remaining; and then surely,
-while we live, we must and shall be full of praise to the Lord.
+while we live, we must and shall be _full_ of praise to the Lord.
 It is a favour to feel better, and I ride out each day on a pony here;
 it is a beautiful country, and so retired and soothing to the mind.
 Heavenly goodness is near to help and support; and oh,
@@ -654,12 +718,16 @@ that I may not cause an absence by lack of watchfulness unto prayer.
 Farewell, very dearly; may the Lord preserve us purely to His praise!
 My mind will be with you next week breathing for your help!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 27th of 5th Month, 1852.
 
+[.salutation]
 My Beloved Friend,
 
 We returned home on third day, and I have had your two kind sisterly epistles,
@@ -671,12 +739,12 @@ since I had the first account you sent,
 I have been much occupied in going about and seeing many beauties,
 yet there have been times when my mind has, remarkably to myself, been, as it were,
 with you in a secret exercise and breathing,
-more so than I have before witnessed in former deprivations from joining in the assembly.
+_more_ so than I have _before_ witnessed in former deprivations from joining in the assembly.
 I have indeed been imagining that you have had much to suffer and to deplore,
-much to feel beneath the surface.
+much to feel _beneath the surface._
 
 Things are sorrowfully ripening for a crisis; but why do I say sorrowfully?
-Surely we may and must rejoice,
+Surely we _may_ and _must_ rejoice,
 if way is gradually making for the furthering of the pure cause of truth,
 even if it be through intense suffering to the servants thereof,
 comparable to the fiery furnace heated seven times more than it is usually heated,
@@ -685,11 +753,11 @@ as nature may shudder at the prospect of.
 But never let us fear,
 except for our own individual keeping close to the Divine gift of light and life;
 let us cast the lot of faithfulness into the lap of the Divine power, and trust our all,
-and all dear to us, yes, the cause most dear to us, in His hands,
+and all dear to us, yes, the cause _most_ dear to us, in His hands,
 whose power is infinite, and wisdom unerring, and love unfathomable,
 and mercy everlasting.
 I believe not a hair of the head shall be hurt of
-the true and humble followers of the Lamb.
+the _true_ and _humble_ followers of the Lamb.
 
 It is but very few who see through things, and they are diminishing,
 either by drawing aside or by death.
@@ -722,8 +790,8 @@ and passed First day there to satisfaction,
 and I was glad of dear J. H.`'s help and exercise among the little company there,
 in advising them for their good, so that it was a strength to my poor hands.
 There are seven now who sit down together, and I hope, as it is more known,
-that travellers will join them, provided they are of good example.
-We made a pleasant excursion on second day, to see three wonderful natural objects,
+that travellers will join them, _provided_ they are of good example.
+We made a pleasant excursion on second day, to see three _wonderful_ natural objects,
 called the Devil`'s Mill, the Rumbling Bridge, and the Cauldron Linn,
 formed by the river Devon rushing over and into some fearful chasms and precipices,
 well worth all visitors going to see,
@@ -732,7 +800,7 @@ We passed through the beautiful Glenfarg, a romantic glen of four miles;
 also visited (and I sat beside) Loch Leven,
 in an island on which Mary Queen of Scots was long confined.
 It was forty-six miles there and back, and we were twelve hours out,
-and returned to Perth much pleased, though very tired.
+and returned to Perth much pleased, though _very tired._
 We parted very reluctantly with these dear friends there on third day morning,
 they going to near Kendal, and we returned home,
 I trust thankful for the help and refreshment we have been favoured with.
@@ -740,25 +808,29 @@ I trust thankful for the help and refreshment we have been favoured with.
 Now, I must say farewell.
 From your much obliged and dearly affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 7th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 I believe I cannot, in candour and faithfulness,
 leave this place without just dropping you a few parting lines,
 which may perhaps better relieve my mind, or convey the exercise of it on your behalf,
 than a verbal communication can do; for I have often found,
-since we have been acquainted, that I cannot rightly understand your way of reasoning,
+since we have been acquainted, that I cannot rightly understand your way of _reasoning,_
 neither can I express myself in a way for you to understand me in conversation.
 It felt to me, last evening,
 as if you shoved away what I wished to point out to your
-weighty consideration in that passage from Isaac Penington,
-namely, that it is not the owning of the light as it shone in the foregoing ages,
-which will now commend any men to God,
+_weighty_ consideration in that passage from Isaac Penington,
+namely, that it is not the owning of the light as it shone in the _foregoing_ ages,
+which will _now_ commend any men to God,
 but the knowing and being subject to the light of the present age.
 
 This, I believe, applies equally to individuals as to churches, and therefore,
@@ -796,18 +868,22 @@ that so we may be enabled yet to sing of mercy and of judgment,
 to walk in a perfect way and with a perfect heart,`" and truly
 to experience Him to "`come in unto us`" with His overflowing peace!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Stonehaven, 22nd of 7th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 Your kind sympathy under my recent affliction was very acceptable.
-Dear Susan was not a professing religious character,
+Dear Susan was not a _professing_ religious character,
 but her sweet amiable conduct and Christian spirit, in many respects,
-showed forth the hidden influence of the power of religion.
+showed forth the _hidden_ influence of the power of religion.
 She was a sweet example to me of self-thoughtlessness,
 and never thinking or speaking lesseningly of others
 without something being held forth to their advantage.
@@ -834,7 +910,7 @@ I thought like a box of precious ointment!
 
 I much unite with your remarks on being disciplined, battered, and broken down.
 How much of this disciplining and instructing we require, we are such poor scholars!
-We are reading, with much enjoyment, Jaffray`'s diary, etc.; it is so excellent!
+We are reading, with _much_ enjoyment, Jaffray`'s diary, etc.; it is so excellent!
 But the history makes us sad in beholding the difference
 in this part to what it was in those bright days.
 The same hardness and highness in professors at this time as then; but,
@@ -844,19 +920,23 @@ All things here are uncertain, but all is wisely ordered and tenderly permitted.
 
 Believe me, with dear love, your affectionate and true friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 28 Victoria Street, Aberdeen, 10th of 8th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 It is very long since I last heard anything of you, and I feel anxious to hear,
 and I hope you will write a few lines.
-+++_______+++ will doubtless give us facts when he comes
++++_______+++ will doubtless give us _facts_ when he comes
 to our general meeting the end of this week,
-but he will not give us feelings, which are better expressed by your kind pen,
+but he will not give us _feelings,_ which are better expressed by your kind pen,
 at any little leisure you can find, and which I shall be pleased to receive.
 I felt near sympathy with you under the trial of J.`'s illness,
 but how great must have been your relief and comfort when she was so suddenly helped,
@@ -879,7 +959,7 @@ which is a savour of life to those who are quickened unto life,
 and a savour of death to those who are by disobedience bringing death upon themselves,
 in a spiritual sense,
 and what a leavening influence is felt with all with whom we associate,
-therefore let us guard against a worldly leaven, and seek after a heavenly leaven; yes,
+therefore let us guard against a _worldly_ leaven, and seek after a _heavenly_ leaven; yes,
 and also seek by obedience to what we know to be
 so leavened into the Spirit of our dear Saviour,
 whose food and drink it was to do the will of His Father,
@@ -898,16 +978,17 @@ And, dear friends, be sure you keep close to the pure gift and heavenly talent o
 life, and grace in the secret of the heart, and walk in obedience thereto,
 as well as be diligent in waiting thereon to be guided, taught, humbled,
 and governed thereby;
-and then there will be no doubt of your being true sheep
+and then there will be _no doubt_ of your being true sheep
 and faithful subjects of the heavenly King and blessed Shepherd,
 at whose name every knee is to bow, and every tongue confess that He is Lord,
 to the glory of God the Father!
 With kind love to J. F., I remain your and your affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
 +++[+++Journal Entry]
-Aberdeen, 10th of 8th Month, 1852.--I feel free to leave it on record,
+__Aberdeen, 10th of 8th Month, 1852.__--I feel free to leave it on record,
 possibly for the sake of some dear relation or friend when I am gone, that,
 on sitting down this evening in our little select meeting at A. W.`'s,
 I felt sweetly gathered into a strengthening stillness,
@@ -934,8 +1015,10 @@ for whatever He may be pleased to require at their hands--blessed,
 and praised, and confided in be His holy name forever!
 Amen.
 
+[.letter-heading]
 To B. B.
 
+[.signed-section-context-open]
 9th Month, 1852.
 
 What a favour it is that we can commune together in spirit when separated in person; yes,
@@ -959,17 +1042,21 @@ when she may arise again and shine forth in primitive purity and brightness;
 so let us wipe away our tears of sadness, and cast our burdens upon Him,
 and He shall sustain and give us to praise His holy name.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 London, 18th of 9th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 Having a little time here before the train for Dorking starts,
 I thought I would pen you a few hasty lines,
-to say I feel much your kind expressions towards me and wishing to see me.
+to say I feel _much_ your _kind_ expressions towards me and wishing to see me.
 I stayed a week at my sister Lucy`'s,
 and then felt able to come to my two dear brothers`' houses at Leyton,
 where I have passed ten days, and left this morning,
@@ -984,8 +1071,8 @@ I am on my way to spend tomorrow at Dorking,
 and from there by Reigate to Wellingham for a few days,
 till their quarterly meeting at Horsham, next fifth and sixth days;
 and on the evening of the latter day,
-I hope to go to dear John F. and Hannah Marsh`'s for a quiet rest of ten days,
-so as to get fit to bear the long journey home again.
+I hope to go to dear John F. and Hannah Marsh`'s for a quiet rest of _ten days,_
+so as to get _fit_ to bear the long journey home again.
 It is a very affecting journey altogether,
 and seems to me like a last leave-taking to some,
 and I feel especially to cling to the dear Marsh`'s, for Hannah Marsh is, I fear,
@@ -998,7 +1085,7 @@ and it will be a comfort to get to my snug home again, if so permitted.
 I am obliged to give up some pleasant plans for stopping
 and visiting several dear friends in my way home,
 which is trying; but we must be willing and resigned to be turned over and over,
-and even (like a poor beetle) right upon our back,
+and even (like a _poor beetle_) right upon our back,
 if so it seem good in the sight of Him who knows and does what is best.
 
 If our dear John and Hannah Marsh like it,
@@ -1007,29 +1094,33 @@ together on quarterly meeting day--would you like it?
 It`'s a thought that just strikes me.
 With dear love to you both, I remain your truly attached friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Croydon, 7th of 10th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 Dear John Harrison is no more!
 A valiant soldier in the Lamb`'s army, and a faithful servant of the Church,
-although in no station therein appointed.
+although in _no station_ therein appointed.
 Oh, I feel it an affliction indeed, although preparing for it ever since last 5th month,
 when I urged his consulting a physician at Glasgow,
 who pronounced it an incurable heart complaint.
 He was a beloved brother indeed to me,
 and his letters have been very animating and strengthening to me in my great solitude.
-His last is a precious one, giving me an account of truth gaining the victory,
+His last is a _precious_ one, giving me an account of truth gaining the victory,
 on the trying subject of grave-stones.
-Oh, many of his letters have been very encouraging,
-in showing how that one faithful friend, zealous for the truth,
+Oh, many of his letters have been very _encouraging,_
+in showing how that _one_ faithful friend, zealous for the truth,
 though feeling a very little and a despised one, may be instrumental,
 by a well-timed and seasoned few words,
-so to help on other upright-hearted ones of lesser courage, though in station,
+so to help on other upright-hearted ones of _lesser courage,_ though in station,
 as that a wrong step may be frustrated through their means,
 and the Lord have all the praise.
 Let us go and do likewise what we can, says my soul.
@@ -1037,12 +1128,16 @@ I also heard yesterday of dear J. Dann of Reigate being sinking rather rapidly.
 
 With dear love to G., I am your truly affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To a Young Friend.
+[.letter-heading]
+To a Young Friend
 
+[.signed-section-context-open]
 Aberdeen, 25th of 10th Month, 1852.
 
+[.salutation]
 My Dear +++_______+++,
 
 I have a very warm feeling towards you,
@@ -1082,12 +1177,16 @@ I am so pleased she thought of it; poor things! my heart goes with them.
 Farewell, my dear; and in the flowings of tender and grateful love,
 I remain your tenderly attached friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 6th of 11th Month, 1852.
 
+[.salutation]
 My Dear +++_______+++,
 
 Ah, how sweet is the influence that pervades the dwelling of those who are desiring,
@@ -1095,7 +1194,7 @@ in sincerity and uprightness of heart, to serve the Lord, the great King, yes,
 the great King above all gods, or great men in other words!
 Surely He only is to be supremely feared, loved, worshipped, and obeyed; to be honoured,
 praised, and magnified over all;
-for He gives us these inexpressible sweets of the true love and
+for He gives us these inexpressible sweets of the _true_ love and
 unity which is beyond all the talk of words--a power and a life
 inwardly felt that strengthens our hearts and hands,
 and cheers our spirits, and confirms our faith and confidence in Him who is over all,
@@ -1115,18 +1214,22 @@ uncomprehended of the world,
 but known and preciously partaken of by the simple babes of the heavenly kingdom.
 With dear love, I am your affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Aberdeen, 16th of 11th Month, 1852.
 
+[.salutation]
 My Dear Friend,
 
 We are far too formal in our discipline:
 what is given in the book of discipline on such outward
-steps was never intended as a form always to be kept to,
-but only as a specimen.
+steps was never intended as a form _always to be kept to,_
+but only as a _specimen._
 It reminds me of our Saviour`'s prayer,
 which was only given as a specimen in what manner to pray,
 becoming such a downright form among the generality of Christian professors,
@@ -1134,7 +1237,7 @@ as if because our praying is in those words it must always be right!
 I have known an instance of a Friend and family,
 who had been a cause of exercise and labour to the overseers,
 and of exception to some of the queries being clearly answered,
-having had an entirely clear certificate in the usual form, giving them on removing,
+having had an _entirely clear_ certificate in the _usual form,_ giving them on removing,
 because it was thought proper to go in those words! and which I could
 not help testifying against as not being in the spirit of our discipline.
 
@@ -1181,8 +1284,10 @@ power of truth is unshaken amidst the conflicts,
 to close their ranks under the leadership of a Captain never yet foiled in battle!`"
 He is quite a diffident one, and has never opened so to me before.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++
 
 I feel much and affectionately interested about the Friends at R. still;
@@ -1194,7 +1299,7 @@ I long for +++_______+++`'s help; had a nice letter from him, and have replied t
 J+++.+++ H. is indeed solitary, but I am ready to think it has been blessed to him,
 drawing Him closer to the alone Source of true help and comfort.
 I have thought his letters have evinced this,
-and also the pieces he has put into the British Friend show he is a true friend at heart;
+and also the pieces he has put into the [.book-title]#British Friend# show he is a true friend at heart;
 he often sits alone at the meeting, and is truly conscientious in his business.
 Ah, while I know the preciousness of that union and communion with one another,
 that you allude to as so much lacking among us, I cannot but think that,
@@ -1216,9 +1321,9 @@ and strengthened in faithfulness and patience, in this engagement.
 I expect he will not be received by many in +++_______+++. So they would fairly,
 in their wrong estimation of the true love,
 that all sorts and sects should be amalgamated together as Robert Barclay, the apologist,
-so nobly deprecates.
+so nobly _deprecates._
 Surely if George Fox had followed such a view,
-he would never have been instrumental of gathering us as a people,
+he would never have been _instrumental_ of gathering us as a people,
 from the other professors of the Christian name,
 who had so degenerated from the primitive simplicity and sincerity of the early reformers,
 and sank down into lifeless formality.
@@ -1229,7 +1334,7 @@ I thought verily all ministry was taken away if ever I had any,
 but today a few words sprang up which I ventured to utter;
 but perhaps they were not in that line.
 As to yearly meeting, I don`'t know anything about it; seem to be living a day at a time,
-though it often seems like dragging on.
+though it often seems like _dragging on._
 I desire to be found ready,
 whether the heavenly summons be to yearly meeting or to the eternal world,
 but how much is necessary before there be a fitness for the last!
@@ -1244,10 +1349,11 @@ she has several times been surrounded by a crowd of sailors down on the quay.
 I am to visit the quay when the boat is near launching.
 
 We are greatly enjoying George Fox;
-how strikingly applicable is his remark about Scotland on his first visit here!
+how _strikingly applicable_ is his remark about Scotland on his first visit here!
 When will the great people come forth from this place?
 
-My dear love to you.
-Your true friend,
+[.signed-section-closing]
+My dear love to you. Your true friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.

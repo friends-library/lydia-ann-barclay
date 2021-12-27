@@ -1,9 +1,12 @@
 == Chapter XI
 
+[.letter-heading]
 To John F. Marsh
 
+[.signed-section-context-open]
 Reigate, 2nd of 2nd Month, 1843.
 
+[.salutation]
 My Dear Friend,
 
 A little one may sometimes help a great one! and this encourages me to think
@@ -19,7 +22,7 @@ but the omnipotent One is indeed sufficient to bear up the
 poor bowed down mind under the prospect of the conflicts,
 and deep baptisms, and low plunges, and long wadings, and proving, fastings,
 and pinching strippings,
-the watchings and the perils that must be the portion of
+the watchings and the perils that _must_ be the portion of
 the Lord`'s painful labourers in these days of backsliding,
 and of sore trial! who but He is sufficient to gird with strength unto the battle,
 to clothe with the armour of light on the right hand and on the left,
@@ -68,28 +71,32 @@ I think it is beyond Brigg where dear J. C. found a tender people,
 and much openness about Waltham and Caistor.
 Oh, spread abroad the sound or testimony of the word of the Lord,
 even that blessed word which is quick and powerful,
-yet very nigh in every heart to discern good and evil!
+yet _very nigh_ in every heart to discern good and evil!
 Oh, I would fain bear the company in this good labour and glorious work,
-as a silent breather for success to the Gospel (the power) the world over!
+as a _silent breather_ for success to the Gospel (the power) the world over!
 I have herewith sent thee as a little mite towards the work,
 one hundred of each of my tracts.
 I trust thou wilt find some tender ones also scattered up and down poor Norfolk,
 and I do hope thou wilt not hurry through,
 and do not put by any little feeling towards a solitary individual even,
-for we know not how an arrow shot at a venture, as it were,
-may even pierce through the very joints of the harness, or coat of mail,
+for we know not how an arrow _shot at a venture,_ as it were,
+may even pierce through the very joints of the harness, or _coat of mail,_
 wherewith such an one is enveloped.
 
 Farewell, my endeared friend.
 I remain, may I say, in the love and bonds of the Gospel, thy nearly united,
 and affectionate, and sympathising friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To a Young Friend on Going Out Into a Situation as Governess.
+[.letter-heading]
+To a Young Friend on Going Out Into a Situation as Governess
 
+[.signed-section-context-open]
 2nd Month, 1843.
 
+[.salutation]
 My Dear +++_______+++,
 
 I omitted to hand thee the little account of J. D.,
@@ -99,14 +106,14 @@ I hope thou wilt observe how that when he was, after long pleading with and diso
 at last convinced of the blessed truth (that is,
 of the inward power of the Lord Jesus Christ),
 partly by means of the awful judgments and afflicting dealings of the Almighty,
-and partly by the instrumentality of a consistent walking Friend--I say,
+and partly by the instrumentality of a _consistent walking_ Friend--I say,
 I hope thou wilt observe how that then he was shown and convinced
 that all those reproofs and teachings in the secret of his heart,
 which he had been favoured with even from early childhood,
 were the operations of the Spirit of Christ,
 visiting him and vouchsafed to him by the tender love of God to his never-dying soul,
 although at the time he was ignorant thereof, or turned a deaf ear to them,
-and therefore could not know them.
+and therefore _could not know them._
 Now, seeing that we as a people are not thus ignorant, but are instructed,
 both by our parents and by many instruments raised up to testify thereto,
 to mind these secret reproofs and teachings as the way to life eternal,
@@ -156,8 +163,8 @@ or give them a slight esteem thereof! for if thou dost,
 and they suffer loss thereby, it will lie at thy door!
 
 And oh, my dear girl, be careful, oh,
-be craving that thou mayest at all times be brought and
-kept under this nurture and admonition of the Lord thyself,
+be _craving_ that thou mayest at all times be brought and
+kept under this nurture and admonition of the Lord _thyself,_
 otherwise thou canst not lead them to the same.
 Oh, let the fear of God be always before thy eyes,
 and be earnestly concerned to seek His face, His favour,
@@ -166,18 +173,18 @@ that thou mayest be so enabled to walk consistently
 and watchfully as that they may see it,
 and be led to follow thy example because it is a peaceful one.
 There is great danger of our having too great an idea of our own abilities and strength,
-and of what we will do and what not.
+and of what we will do and what _not._
 Such are not the meek and humble whom the Lord delighteth to teach of His precious ways,
 and to lead in the paths of true judgment.
 "`The Lord hath respect unto the lowly,
 but the proud He knoweth afar off,`" and doth not draw dear unto them,
-but leaves them to themselves, and then they are likely to step amiss, yea,
+but leaves them to themselves, and _then_ they are likely to step amiss, yea,
 cannot fail of erring.
 It is not a mean thing or a base thing to distrust ourselves--to feel our own weakness,
 and to apply unto the Lord for help continually; no, it is a great thing,
-and a noble thing, and a very precious thing in His sight,
+and a noble thing, and a very precious thing in _His_ sight,
 and that is worth far more than all that men think of us for our abilities.
-None are so truly great as those who think little of their own attainments and capabilities,
+None are so _truly_ great as those who think little of their own attainments and capabilities,
 and are fearful of themselves and of trusting themselves,
 and therefore look wholly to and lean only on the Lord, in whom is everlasting strength,
 and with whom are hid all the treasures of the true wisdom and knowledge.
@@ -189,14 +196,14 @@ and the reproofs of a true friend are better than the kisses of an enemy.
 If I did not love thee dearly,
 I should not feel so tenderly concerned for thy best welfare.
 Ah!
-I long that thou mayest be brought more really and fully to the possession
+I long that thou mayest be brought more _really_ and _fully_ to the possession
 of that which thou hast been brought up in the profession of.
 For, as I said to thee here, our parents cannot give us possession of the truth,
 or the inward kingdom of Christ; they may testify of it, and direct unto it, where it is,
 and how to be attained; they may pray for our being brought to the knowledge thereof;
 but it is our own fault if we will not follow their directions and testimony,
 nor seek to answer their prayers.
-But how much greater is our responsibility and will be our condemnation; yes,
+But how much greater is our responsibility and _will_ be our condemnation; yes,
 and how much more harm may we be instrumental of spreading,
 for the children of such exercised parents are looked at peculiarly for examples,
 and their parents are often bitterly reproached if they are not what they should be.
@@ -206,7 +213,7 @@ words fail me to describe the earnest and affectionate desire that fills my hear
 that thou mayest grow up as before the Lord in His holy nurture and government; and,
 going forth, mayest lead and persuade all around thee to come, taste,
 and see how good the Lord is;
-and that they verily are blessed that wholly give up to love Him above all,
+and that they _verily are_ blessed that wholly give up to love Him above all,
 and to be led humbly by His good hand.
 And I believe, as this is thy care and desire,
 thou wilt unfailingly experience Him to be a God nigh at hand,
@@ -214,16 +221,19 @@ to do thee good at all times and under all circumstances--a
 never-failing Friend and sure Adviser--a safe Guide--a mighty
 Strengthener--a powerful Preserver--and a blessed Comforter.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Reigate, 21st of 2nd Month, 1843.
 
 &hellip;Alas, my dear friend,
 how many there are in our highly favoured and highly professing Society,
 and even some in station, who have not this tender, honest feeling, I am sorry to say,
-but who seem as if they made use of a borrowed capital to make a fair show in the flesh,
+but who seem as if they made use of a borrowed capital to make _a fair show in the flesh,_
 and then run the risk of losing all,
 and thus bring reproach on the pure testimony of the truth.
 That which is not my own I should feel as sacred,
@@ -245,17 +255,17 @@ and at other times over the desolations of Zion and the
 abominations of those who profess to be her daughters!
 But I have often desired that as it regards the former cause for mourning,
 it may not lead to unprofitable discouragement,
-neither may self get up even in our mourning over ourselves.
+neither may _self_ get up _even_ in our _mourning over ourselves._
 Let us be content to see ourselves as weak, and foolish, and vile, and nothing,
 that we ought to be, and let us abide under the humbling sense thereof,
 till patience have her perfect work therein.
 
 But oh, let us look, yea,
-let us be animated still to look over all up unto Him in whom is everlasting strength,
+let us be animated _still_ to look over all _up unto Him_ in whom is everlasting strength,
 and in whom are hid all the treasures of wisdom and knowledge,
 that we may lay hold on His tender arm of Divine strength
 which is renewedly stretched out for our help,
-and then surely we shall know the healing through
+and then surely we shall know the healing _through_
 the chastisement or judgment of His blessed Spirit,
 and the strengthening through the humbling,
 and the Lord`'s power will be over all the enemy`'s plunges and doubts and discouragements!
@@ -295,7 +305,7 @@ goodness to such a poor unworthy one,
 that I was liberated last fourth day by my Friends
 to visit Friends once again in the land of my forefathers,
 Scotland, and am looking to start the middle of next month.
-I cannot describe the waves that have been permitted
+I cannot describe the _waves_ that have been permitted
 to come over me on this account during the last year,
 and even still I seem hardly out of their reach! for oh, how awful does the work seem,
 and how formidable does the journey seem at this most trying season to the delicate,
@@ -316,12 +326,16 @@ that I may be preserved and enabled to praise His great name fer ever.
 Farewell.
 With dear love, I remain thy truly sympathising and affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To Mary +++_______+++
 
+[.signed-section-context-open]
 Reigate, 3rd of 3rd Month, 1843.
 
+[.salutation]
 My Dear Mary,
 
 I feel as if I should be best satisfied to send thee a few lines by way of parting salutation.
@@ -330,16 +344,16 @@ and come up in that faithfulness and fruitfulness which thou art called unto,
 and which it is graciously designed thou shouldst enjoy the reward of!
 I have often felt much about your allotment in your little meeting,
 and how the blessed end so mercifully designed therein may be answered;
-and it appears to me there is no other way than daily to wait for the Divine
+and it appears to me there is no other way than _daily to wait for_ the Divine
 life and counsel to quicken and to direct you in all your conduct and steppings.
 It is thus that life and love towards God and the
 things of His heavenly kingdom is quickened in us,
-and we know that unless these be daily renewed in us,
+and we know that _unless these_ be daily renewed in us,
 there is so much around us that is calculated to deaden and clog our spirits
 heavenward and so hinder us of the precious good so mercifully designed.
 And when this life and love towards God is quickened in us,
 though in ever so little a way,
-it must bring with it a true feeling towards His precious cause of truth,
+it _must_ bring with it a _true feeling_ towards His precious cause of truth,
 which is the inward kingdom of Christ`'s Spirit,
 both in our own hearts and the hearts of others--a true zeal for it; and as we,
 in simplicity and godly sincerity, seek to be humbly faithful to this feeling,
@@ -349,7 +363,7 @@ which we cannot have without faithfulness, so we shall know a growing in heavenl
 in the heavenly increase,
 become more quick of understanding in the Divine
 fear in the things that concern the heavenly kingdom,
-and consequently our present and eternal peace,
+and _consequently_ our present and eternal peace,
 and shall become more and more helpful as living members in the body, the Church,
 and in which body none are to be idle and useless,
 but every joint and every member is to supply strength and beauty
@@ -372,8 +386,8 @@ through a humble and simple walk and acting,
 be a means of helping dear +++_______+++ on a little.
 We may often be helped when diffident,
 by seeing the simplicity and faithfulness of another, even one younger than ourselves;
-and she has been so bred up in the discouraging and crushing atmosphere of +++_______+++,
-that I know she feels as if she could not stir out of the pit of it.
+and she has been so bred up in the _discouraging_ and _crushing_ atmosphere of +++_______+++,
+that I know she feels as if she _could not stir_ out of the pit of it.
 I am aware there is much +++[+++that]
 lies at her door in the matter by a want of simple faithfulness,
 and self may creep up in many ways that don`'t seem likely, and so hinder us,
@@ -383,7 +397,7 @@ of light and life whilst mercifully permitted;
 still example may do much, and whether she follows or not,
 thou wilt be clear and wilt thereby wax stronger and stronger!
 
-Oh, there is something overcomingly strong in the truth
+Oh, there is something _overcomingly strong_ in the truth
 as it is suffered to prevail in our hearts,
 as we yield thereunto in all things,
 and know all things in us thereby brought low in subjection thereto;
@@ -394,25 +408,29 @@ and we shall, as the scripture says,
 "`possess the gates of our enemies!`" and as we are faithful,
 though in ever so little and humbling a way,
 how does it seem to lift us up above the evil in ourselves or in others,
-and it gives us to feel a precious union and communion with Christ the truth;
+and it gives us to feel a precious _union_ and _communion_ with Christ the truth;
 we seem as it were lifted up to the mount where we say it
 is good for us to be here and desire to abide there always!
 Nevertheless our clothing is deep humility,
 and we are made willing to go with Him also to Calvary, and to know self crucified in us!
 Oh, my dear Mary, let us seek after this precious experience more and more,
-which is to be known by little and little in the daily quickenings,
+which is to be known by _little_ and _little_ in the daily quickenings,
 in the daily humbling, by the Divine power in our souls!
-Ah, do you crave it for me in this awful journey, for unless I know it day by day,
+Ah, do you crave it for me in this awful journey, for unless I know it _day_ by _day,_
 my faith and resignation will soon fail!
 
 Farewell very dearly, saith thy and your affectionate and very sincere friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To +++_______+++ and +++_______+++
 
+[.signed-section-context-open]
 14th of 3rd Month, 1843.
 
+[.salutation]
 My Dear Friends,
 
 As I am not likely to meet you at our next quarterly meeting,
@@ -448,7 +466,7 @@ and preserve the latter from all that is likely to corrode
 or impede the savoury life--this can humble the rich,
 whether in outward circumstances or in mental endowments,
 and sanctify all they have and are unto the Master`'s pure and holy use--this can quicken
-and raise up the true feeling and judgment in such as are poor in either sense,
+and raise up the true feeling and judgment in such as are poor in _either sense,_
 and enable them to bring it forth in humility and unflinching faithfulness for the upholding
 of His pure and blessed cause this can preserve any from becoming dry and formal,
 even by the daily quickening and melting that is of and from the Lord.
@@ -473,7 +491,7 @@ endeavouring thus to help both out of and away from the enemy`'s snares,
 to clothe the naked, to feed the hungry, to visit the sick and in prison,
 and to strengthen the stranger or inexperienced into a better way.
 
-It is these truly fellow-feelers who will mourn with the right-minded who mourn,
+It is these _truly fellow-feelers_ who will mourn with the right-minded who mourn,
 and they will be helpers of their joy and rejoicers with them when they rejoice,
 uphold and strengthen their hands before all gainsayers,
 comfort and confirm their feeble minds in the testimony required
@@ -488,7 +506,7 @@ for this is but "`filthy lucre,`" inasmuch as it draws the
 hearts both of givers and receivers away from the Lord,
 the true Shepherd and King; but oh,
 the true eldership must be from the pure constrainings or drawings of
-the Lord`'s Spirit that gives to feel truly with His blessed cause,
+the Lord`'s Spirit that gives to _feel truly with His blessed cause,_
 and then makes us "`of a ready mind`" in a living, holy,
 but humble zeal to act in the meekness of His wisdom for the pure
 testimony thereof--such will not shrink in the day of battle,
@@ -521,15 +539,19 @@ heed "`to all the flock`" over which we are appointed overseers,
 that we may feed them or nourish up in them the true life,
 and promote in them the nurture and admonition that is of the Lord.
 This is my earnest desire on behalf of all my dear friends in the station of elders,
-that they may be a blessing and not a hindrance, and may be blessed of the Lord,
+that they _may_ be a blessing and not a hindrance, and may be blessed of the Lord,
 the chief Shepherd.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 4th Month, 1843.
 
+[.salutation]
 My Dear Friend,
 
 I feel best satisfied to take up the pen to finish that which is lacking towards thee.
@@ -542,7 +564,7 @@ eye-servants as men pleasers--that is,
 only doing that without attention to which they would be found fault with by their friends.
 Now, it has often appeared to me that a truly exercised Friend in these stations will,
 as he daily waits for the heavenly humblings and quickenings,
-whereby alone he receives a true feeling for and with Christ the truth,
+whereby alone he receives a true feeling _for and with_ Christ the truth,
 feel a holy zeal and a tender fostering care raised in him for
 his Master`'s cause or kingdom in the hearts of all the flock,
 and which is compared to a little seed;
@@ -561,7 +583,7 @@ And though under a sense of our own great weakness we may say,
 "`and who is sufficient for these things?`"
 yet let us remember the Lord`'s power is over all weakness, and difficulties,
 and trials all-sufficient,
-and it is most preciously and as it were precisely manifested in proportion
+and it is most preciously and as it were _precisely_ manifested in proportion
 as we are reduced to feel our own weakness and unfitness the most;
 and in His power a little one may become as a thousand,
 and a feeble one as a strong nation, and he that is weak as David,
@@ -575,7 +597,7 @@ Yes, and there is need for such; and oh, dear friend,
 look to it to be stirred up to look closely at home
 and consult the unflattering witness for truth within,
 whether we are clean-banded in all respects,
-whether there is aught that hinders our uprightness
+whether there is _aught_ that hinders our uprightness
 for our Master and our faithful pleading for Him,
 whether His cause is uppermost in our hearts both in prevalency and in preciousness,
 or whether other lovers in various ways and under
@@ -590,18 +612,18 @@ and we may appear nothing different to our Friends perhaps, yet the kernel,
 the life is wanting that gives the true taste and savour,
 and leads into the true exercise of spirit, whereby the feeding of the Church is known!
 
-Oh, there is much in that exhortation, "`take heed to yourselves first,
+Oh, there is much in that exhortation, "`take heed to _yourselves_ first,
 and then to all the flock over which ye are appointed
-overseers to feed the Church of God.`"
+overseers to _feed the Church of God._`"
 As we are concerned to take heed to ourselves first,
 to see that the lets and hindrances are removed whereby
 our hands are weakened or made unclean,
 and to seek after the daily qualifying as above said,
-so the exercise and the heed for the flock necessarily follow,
+so the exercise and the heed for the flock _necessarily_ follow,
 even in that precious life which nourishes that which is
 of its own nature in the hearts of the flock or Church.
-Oh, how tenderly then do we move for our Master, yet how surely,
-for He tenders us in ourselves and moves us in His own life and wisdom that must
+Oh, how tenderly then do we move for our Master, yet how _surely,_
+for He tenders us in ourselves and moves us in His own life and wisdom that _must_
 gather unto Him--His cause is tender to us as the apple of the eye,
 we are hurt when He is grieved, yet think not of our own suffering!
 
@@ -626,12 +648,16 @@ His treasure in the heavens that corrupteth not,
 His peace and joy unspeakable and full of glory, yea,
 which is a crown of glory that fadeth not away!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To P. D.
 
+[.signed-section-context-open]
 7th Month, 1843.
 
+[.salutation]
 My Dear Young Friend,
 
 As I had no opportunity of having thy company alone before thou left home,
@@ -655,17 +681,17 @@ but our conduct and state of mind under our condition!
 Oh! then,
 that thou mayest seek above all things to have thy
 whole conduct and mind moulded and formed aright,
-even according to the Divine will which is our sanctification and true happiness!
+even according to the _Divine will_ which is our sanctification and true happiness!
 For, what will it avail us when we come to lie on a deathbed to have gained the whole
 world if we have by losing the favour of God lost our own soul and become a castaway!
 And however we may be permitted to possess the many good things of this life,
 yet if we have not the good favour of our heavenly Father,
-what real substantial happiness can we have?
+what real _substantial_ happiness can we have?
 Shall we not feel a sense that all things are not right with us,
 even pursuing us everywhere and hindering our real and peaceful enjoyment of all things;
 and is not this comparable to "`the worm that never dies,`" mentioned in scripture?
 
-Oh, then, that thou mayest above all things seek the one thing most needful,
+Oh, then, that thou mayest above all things seek the one thing _most_ needful,
 the better part, (like Mary of old) that shall not be taken away,
 even the precious favour of God in the knowing His
 kingdom come and coming more and more in thy heart,
@@ -708,7 +734,7 @@ for it is not subject to the law of God,
 neither indeed can be;`"--but the spiritual mind
 sees and feels God everywhere and in all things;
 and being subject to and in unison with His Divine will,
-enjoys happiness and a continual feast in all things,
+enjoys happiness and a _continual feast_ in all things,
 and really reigns with Christ and in Him possesses all things.
 
 Oh, then, this is what I most earnestly long for thee, my dear girl,
@@ -768,10 +794,13 @@ joined to Him by sacrifice in a precious and perpetual covenant--and oh,
 what an excellent experience is this in the season of trial, in the time of sickness,
 and in the hour of death!
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To a Child Staying at the Seaside
 
+[.signed-section-context-open]
 Reigate, 24th of 7th Month, 1843.
 
 I expect these stormy winds we have had these two
@@ -785,11 +814,11 @@ and then it helps a rainy morning, or an hour of rest to prepare them at home,
 at least the vegetable kinds,
 so as in the best manner to show forth and preserve their beauty.
 And in doing this, my dear girl, we must not, when out in the search,
-be so downward with our eyes as not to be able at times to lift them up to behold
+be so _downward_ with our eyes as not to be able at times to lift them up to behold
 the fine sea or the beautiful fields and woods whence these beauties come;
 and when indoors preparing them,
 we must endeavour not to be too intent outwardly
-to behold in them the wonderful wisdom and skill,
+to _behold in them_ the wonderful wisdom and skill,
 power and goodness of Him who has created and given
 them for our use and enjoyment and admiration,
 that our hearts may be continually lifted up in praise
@@ -816,7 +845,7 @@ is that thou mayest seek to be preserved in this tenderness,
 and to cultivate it more and more--this susceptibility
 to the Lord`'s touches of His Spirit,
 which during the day of thy visitation thou wilt feel constantly
-drawing thee upward and upward still! even towards Him the
+drawing thee upward and _upward still!_ even towards Him the
 source of all good that thou seest all around thee,
 and of all the good and tender,
 and sweet peaceful feelings that thou mayest at any
@@ -828,7 +857,7 @@ even in moments of leisure when few may be aware how thy mind is engaged and lif
 I can look back to many such precious seasons when I could hardly suppress my tears,
 whilst sitting at my father`'s dinner-table with eight others around,
 and two servants waiting.
-Then did I endeavour to lift up my heart instead of listening
+_Then_ did I endeavour to lift up my heart instead of listening
 to conversation that would not profit me;
 and these were moments often of renewal of desire
 and of covenant towards Him whom I felt to be good,
@@ -879,7 +908,7 @@ or did any abide in His fear and was forsaken?
 or whom did He ever despise that called upon Him?`"
 And "`oh,
 how great is His goodness which He hath prepared for them that fear and love Him,
-which He hath wrought for those that trust in Him before the sons of men!`"
+which He hath wrought for those that trust in Him _before_ the sons of men!`"
 And I do long thou and dear +++_______+++ too,
 may become rich partakers of this abundant goodness
 which is placed so mercifully within our reach.
@@ -889,12 +918,16 @@ please.
 
 I remain thy very sincere and affectionate friend.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Reigate, 19th of 9th Month, 1843.
 
+[.salutation]
 My Dear Friend,
 
 I sincerely desire thy help and that of thy dear husband spiritually,
@@ -911,7 +944,7 @@ as from the well of Bethlehem, to revive the spirits of the humble and afflicted
 And, oh, may you not be taken by the gifts or kindness of any,
 but endeavour to be deep and inward in mind, to feel whence all comes,
 and of what root it springs; and be ye faithful in testifying against evil,
-and pleading for the Master, and this will be the true gathering love of the Gospel,
+and pleading for the Master, and _this_ will be the true gathering love of the Gospel,
 which is the power of God bringing salvation;
 and be not discouraged if you be at times closely proved and stripped, as it were,
 quite naked--you must be baptised for the spiritually
@@ -924,10 +957,13 @@ and through His poor servants.
 Believe me, with dear love and desire for your help, preservation, and return in peace,
 thy friend sincerely,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To J. S.
 
+[.signed-section-context-open]
 Reigate, 11th of 11th Month, 1843.
 
 Thou hast my tender sympathy, my dear friend, under thy trying circumstances of suspense,
@@ -948,7 +984,7 @@ may rather favour than otherwise this desire of mind to
 watch unto prayer for best direction and heavenly counsel.
 
 Ah, there is, as thou remarks, very much to hinder the Divine work in this day,
-even amongst the professors of the blessed truth! and why so,
+even amongst the _professors of the blessed truth!_ and why so,
 but because they are gone from the inward,
 close attention to and waiting on the living word nigh in the heart and mouth,
 but are gone out into outwardness, into the world and its spirit,
@@ -973,7 +1009,7 @@ and trampled under foot by those who should be testimony-bearers for Him!
 And consequently it happens that the remnant of those who keep to first principles,
 and are desirous of not bowing the knee to Baal or kissing his image, is but small,
 even a poor and afflicted people, hidden and scattered by ones and twos,
-despised and often reproached by their fellow-professors, and mourning over wrong things.
+despised and often reproached by their _fellow-professors,_ and mourning over wrong things.
 Yet am I comforted in beholding them, in the vision of light, as a goodly remnant,
 comparable to the seven thousand in Israel formerly; their sighs are numbered,
 and their tears are bottled, and their foreheads are marked,
@@ -1013,7 +1049,7 @@ It has been of late a great comfort to me to meet
 with and to hear of several visited minds,
 who have felt tender scruples in regard to business.
 This may encourage thee to be faithful to conviction,
-inasmuch as the Spirit`'s leadings are similar with all who wholly yield thereto.
+inasmuch as the Spirit`'s leadings are similar with all who _wholly_ yield thereto.
 
 And now, farewell, in much love and sympathy and earnest desire for thy growth,
 and strengthening, and establishment in the blessed and unchangeable truth,
@@ -1024,20 +1060,24 @@ I shall always be pleased to hear from thee when thou art inclined.
 
 I remain thy poor weak fellow traveller, but affectionate and sincere friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To Priscilla R.
 
+[.signed-section-context-open]
 Reigate, 21st of 11th Month, 1843.
 
+[.salutation]
 My Dear Priscilla,
 
 I cannot tell thee what a great comfort and blessing I feel
 it to have been thus restored to comparative health,
 though I do not expect I shall regain the strength and health wholly which I have lost,
-and have often many thoughtful anticipations of the future spring,
+and have often many _thoughtful_ anticipations of the future spring,
 being still very weak and easily overdone both by exertion and excitement.
-But I desire to live a day at a time (if I might but rightly live it),
+But I desire to live a day at a time (if I might but _rightly live_ it),
 and to be resigned to whatever may be in store for
 me--oh! that I could say with the apostle,
 "`To me to live is Christ, and to die is gain.`"
@@ -1057,12 +1097,16 @@ It is a great comfort to return again to our winter habits and settled evenings.
 
 With very dear love to you all from thy affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To J. W.
 
+[.signed-section-context-open]
 Reigate, 25th of 11th Month, 1843.
 
+[.salutation]
 My Dear and Honoured Friend,
 
 I am grieved that I should have appeared negligent of thee,
@@ -1150,10 +1194,13 @@ in strength or in weakness, in joy or in tribulation, in life or in death.
 In a measure of this do I tenderly salute thee,
 and remain thy affectionate and sympathising friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To J. S.
 
+[.signed-section-context-open]
 Reigate, 6th of 12th Month, 1843.
 
 I am pleased that thy dear mother continues tolerable for her,
@@ -1176,18 +1223,22 @@ she need not fear, but rejoice in the Lord alway.
 
 With dear love to you both, I remain thy affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Reigate, 12th of 12th Month, 1843.
 
+[.salutation]
 My Dear Friend,
 
 I wondered much at Friends allowing you to miss those solitary few at
 +++_______+++. I should have thought as you began your service at +++_______+++,
 that +++_______+++ would have known of them,
-and it was their duty to have laid them before your minds,
+and it was their duty to have _laid them before your minds,_
 in order that in laying out the meetings for you,
 they might have been embraced at the most suitable time.
 But, alas! we do find that too few have the cause of truth really at heart,
@@ -1205,7 +1256,7 @@ I have felt nearly united to +++_______+++ in time past, and long to know how sh
 Thou dost not mention +++_______+++, but I suppose that was not left out,
 and no doubt it was a trying visit: what a beautiful spot it is outwardly,
 or rather the county round! and oh, that those gathered to the truth had continued in it,
-then it might have flourished spiritually also, even as Eden,
+_then_ it might have flourished spiritually also, even as Eden,
 and sent forth a fragrant savour as the blossom of the rose.
 
 Well, dear +++_______+++, you seem to have gone along.
@@ -1215,7 +1266,7 @@ and arousing the careless; for the present is a day when,
 if we plead faithfully for our Master, we cannot fail of having close things to preach,
 not pleasing to those who have itching ears, that like smooth doctrine,
 and to be encouraged as they are;
-and then consequently we must expect not only to pass through deep baptism, plunging,
+and _then consequently_ we must expect not only to pass through deep baptism, plunging,
 and wading inwardly, but also to meet with much trial and despising,
 and evil report outwardly, although perhaps to our faces we are spoken smoothly too;
 for the world (among Friends) whilst it loves its own and what
@@ -1245,10 +1296,13 @@ solid fruits in a true convincement and conversion!
 
 With dear love to you all, thy very affectionate friend,
 
+[.signed-section-signature]
 L+++.+++ A. Barclay
 
-To +++_______+++.
+[.letter-heading]
+To +++_______+++
 
+[.signed-section-context-open]
 Reigate, 16th of 12th Month, 1843.
 
 &hellip;I should be obliged by thy giving my dear love to dear +++_______+++,
@@ -1265,7 +1319,7 @@ Her dear parents cannot give her this experience, though they can direct to it,
 but she must seek it for herself,
 and she is come now to an age when she must show forth the
 fruits of their faithful labour and good example,
-proving to others that she is as desirous herself
+_proving to others_ that she is as desirous herself
 to come under the nurture and admonition of the Lord,
 as ever they are and have been for her;
 thus will she become increasingly a blessing and comfort to them,
@@ -1274,10 +1328,13 @@ Oh, then, may the example or reasonings of no one, nor yet self-love in any shap
 hinder her from, above all things, pursuing after this peace,
 and seeking this rich treasure which never shall decay, nor ever fail.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
 
+[.letter-heading]
 To S. B.
 
+[.signed-section-context-open]
 28th of 12th Month, 1843.
 
 Though so distantly separated, dear +++_______+++,
@@ -1302,7 +1359,7 @@ nor designated by the shaking of hands or saluting the body.
 I hear +++_______+++ was strikingly engaged on third day last,
 at the quarterly meeting at +++_______+++, at which I rejoice,
 and earnestly desire his preservation in the low valley of humiliation,
-whence are fetched up the few smooth stones for the bringing
+whence are fetched up the _few_ smooth stones for the bringing
 down the mighty Goliaths of the present day,
 as slung in the holy name of the Lord God of Israel,
 who is mighty as ever to save His tribulated people,
@@ -1313,4 +1370,5 @@ May the Lord whom thou desires to serve faithfully be with thee,
 and as it were hold thy hand in the hour of trial,
 and mayest thou still trust in Him to the end, and He will do thee good.
 
+[.signed-section-signature]
 L+++.+++ A. Barclay.
