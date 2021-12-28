@@ -40,6 +40,9 @@ till He has thoroughly purged away all the dross, and the tin, and the reprobate
 and made me what He would have me to be.
 Truly He is worthy to be served, loved, and obeyed forever.
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Hannah Marsh
 
@@ -61,8 +64,13 @@ Farewell, in haste, with the dear love of thy affectionate friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
 +++[+++The following letter is in reply to one written to her by a Friend,
 relative to that plainness of dress which she believed she was required to adopt:]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To +++_______+++
@@ -112,6 +120,11 @@ With love to thy wife, I remain thy friend sincerely,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To the Same
 
@@ -128,6 +141,11 @@ Amen.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Hannah Marsh
@@ -148,6 +166,11 @@ I have at times believed, there would be no lack and no doubt.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To M. M., On Her Being Admitted Into Membership
@@ -174,6 +197,8 @@ and seek daily for ability to walk worthy of the high profession thou hast taken
 
 [.signed-section-signature]
 L+++.+++ A. Barclay
+
+--
 
 +++[+++Journal Entry]
 _3rd Month 7th, 1830._--Oh Lord, my God! seeing I am but a child,
@@ -208,6 +233,9 @@ and perfect that which concerneth me in His own time and way, and to His own pra
 for what am I, His poor weak handmaid,
 that He should condescend to put His words into my mouth,
 and honour me with His commands!
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To S. B.
@@ -265,6 +293,11 @@ Dear love, from thy affectionate friend,
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To E. J. FRY
@@ -329,6 +362,8 @@ I fear I have made thee sorrowful with my bewailings over myself.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
 
 +++[+++Journal Entry]
 _1st Month 5th,
@@ -442,6 +477,9 @@ humbling me as His tender love and wisdom see meet.
 And oh! saith my soul, may He ever keep me low in His pure fear,
 that all praise and glory may be ascribed to Him to whom alone it is eternally due!
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Hannah Marsh
 
@@ -484,6 +522,11 @@ that the going in a steam vessel to an interment _fifty_ miles off was a great _
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To E. R.
@@ -548,6 +591,11 @@ I remain thy affectionate friend,
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Hannah Cruickshank
@@ -667,8 +715,13 @@ With dear love to thee and thy cousin L+++_______+++, I remain thy truly affecti
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
 +++[+++The exact date of the following communication is unknown,
 but it is supposed to belong to this period.]
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To +++_______+++
@@ -723,6 +776,11 @@ Perhaps some day next week thou canst spend with me.
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Hannah Marsh
 
@@ -742,8 +800,7 @@ and who know Him that _can_ hear His words or receive the testimony of His faith
 And oh! let me be one of these poor, weak, yet baptising ones,
 if ever entrusted with so precious a gift.
 
-[.small-break]
-'''
+--
 
 +++[+++Journal Entry]
 _12th Month 6th,
@@ -767,6 +824,9 @@ that so He may rule and reign over all within me,
 and self may forever be abased as in the dust before Him,
 who is indeed everlastingly worthy to be praised, loved, and obeyed,
 and that by the whole house of Israel!
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To the Daughters of S. T. and J. C.
@@ -802,6 +862,11 @@ That this may be your happy experience is the earnest desire of your affectionat
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To +++_______+++
@@ -900,6 +965,11 @@ and gives all good, and not to the poor worm.
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To Abram R. Barclay
 
@@ -947,6 +1017,11 @@ and tacitly encouraging what ought to be testified against.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To S. B.
@@ -1012,6 +1087,11 @@ I do wish they may be all searched thoroughly.
 
 ====
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To the Same
 
@@ -1031,6 +1111,11 @@ His name,`" whom we do desire to love above all.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To S. A. D.
@@ -1076,6 +1161,11 @@ is the earnest desire of thy sincere friend.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To S. B.
@@ -1138,6 +1228,11 @@ if such a child might say so.
 
 ====
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To the Same
 
@@ -1198,6 +1293,11 @@ Farewell, very affectionately thy friend,
 [.signed-section-signature]
 L+++.+++ A. Barclay.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 To +++_______+++
 
@@ -1248,6 +1348,11 @@ to the praise of His great name!
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Hannah Cruickshank
@@ -1318,6 +1423,11 @@ Surely the vows entered into must be performed.
 
 [.signed-section-signature]
 L+++.+++ A. Barclay.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To E. R.
@@ -1410,8 +1520,7 @@ and thus become of the number of His dear handmaids and children.
 
 ====
 
-[.small-break]
-'''
+--
 
 +++[+++Journal Entry]
 _12th Month 1st, 1832._--Perhaps for some surviving dear brother or sister,
