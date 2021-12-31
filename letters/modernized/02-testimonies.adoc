@@ -1,10 +1,7 @@
 == Testimonies
 
-=== Testimony Of Aberdeen Monthly Meeting, Concerning Lydia Ann Barclay,
-
-who died on the 31st of 1st month, 1855, aged 55 years,
-and whose remains were interred at Cockermouth, on the 7th of 2nd month following:
-a Minister about 20 years.
+[.blurb]
+=== Testimony Of Aberdeen Monthly Meeting, Concerning Lydia Ann Barclay, who died on the 31st of 1st month, 1855, aged 55 years, and whose remains were interred at Cockermouth, on the 7th of 2nd month following: a Minister about 20 years.
 
 Although our dear friend was not a member of this
 Monthly Meeting at the time of her decease,
@@ -26,6 +23,9 @@ in the narrow path of self-denial and regeneration,
 esteeming all things but loss that she might "`win Christ, and be found in him.`"
 The following extract, from a letter to a friend,
 shows the work of the Lord`'s Spirit on her mind in her younger days:--
+
+[.embedded-content-document.letter]
+--
 
 My dear friend: you queried of me yesterday,
 how the work of religion was begun in my heart?
@@ -58,6 +58,8 @@ I desire to be continually humbled under a sense of these things,
 and animated to renewed dedication of heart to Him
 who has loved me and given Himself for me;
 waiting for the fresh discoveries of His blessed will.
+
+--
 
 As she continued faithfully to follow Him who had
 called her out of darkness into His marvellous light,
@@ -216,6 +218,7 @@ also of speech and the power of swallowing.
 In this prostrated state, apparently with little or no pain,
 she lay until the 31st of the same, when she quietly and peacefully breathed her last.
 
+[.blurb]
 === Testimony of Lydia Ann Barclay by John and Hannah Marsh
 
 A little tribute to the memory of our beloved departed friend, Lydia Ann Barclay,
@@ -285,12 +288,16 @@ through redeeming love and mercy, prepared to receive the joyful summons of "`We
 good and faithful servant,
 enter into the joy of your Lord,`" and into your Master`'s rest.
 
+[.signed-section-signature]
 John Finch Marsh.
 
+[.signed-section-signature]
 Hannah Marsh.
 
+[.signed-section-context-close]
 Croydon, Surrey, 12th Month, 1861.
 
+[.blurb]
 === Testimony of Lydia Ann Barclay by Louisa E. Gilkes
 
 Precious is the memory of the Lord`'s faithful servants,
@@ -326,6 +333,8 @@ Her day`'s work was early completed, and she was permitted to lay down her head 
 reposing in the love of that Saviour who redeemed her and qualified her for His service,
 and who is now, we reverently believe, her everlasting reward and crown of rejoicing.
 
+[.signed-section-signature]
 Louisa E. Gilkes.
 
+[.signed-section-context-close]
 London, 1862.
